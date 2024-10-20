@@ -1,0 +1,1 @@
+bd3fddc1b3b3d7e077329f5664413bc6  mtpaint1.scm

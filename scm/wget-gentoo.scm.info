@@ -1,0 +1,17 @@
+Title:          wget-gentoo.scm
+Description:    GNU wget
+Version:        1.4
+Author:         Hrvoje Niksic 
+Original-site:  www.gnu.org/software/wget/
+Copying-policy: GPL
+Size:		2.5MB
+Extension_by:   Jason W
+Tags:	    GNU wget
+Comments:       This is the GNU version of wget, gnutls
+		enabled and no dependencies. Built on
+		Gentoo.  Simply install the ca-certificates.tcz
+		package to make us of ca-certificates.
+Change-log:     ----
+Current:	2012/03/01 First version 1.4
+
+			  

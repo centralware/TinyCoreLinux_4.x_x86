@@ -1,0 +1,26 @@
+Title:          firefox.scm
+Description:    Firefox web browser
+Version:        18.0.2
+Author:         The Mozilla Community
+Original-site:  www.mozilla.com/firefox/ 
+Copying-policy: MPL
+Size:		25M
+Extension_by:   Jason W
+Tags:		Web browser gtk2 mozilla firefox
+Comments:       This is the official build of Firefox.
+Change-log:     ----
+		2012/02/23 Scm version 10.0.2
+		2012/03/18 Update to 11.0
+		2012/04/28 Update to 12.0
+		2012/06/06 Update to 13.0
+		2012/06/16 Update to 13.0.1
+		2012/07/19 Update to 14.0.1
+		2012/09/06 Update to 15.0.1
+		2012/10/09 Update to 16.0
+		2012/10/11 Update to 16.0.1
+		2012/10/26 Update to 16.0.2
+		2012/11/18 Disabled unneeded auto updating (Thanks to caminati).
+		2012/11/22 Update to 17.0
+		2013/01/12 Update to 18.0
+		2013/01/19 Update to 18.0.1
+Current:	2013/02/06 Update to 18.0.2

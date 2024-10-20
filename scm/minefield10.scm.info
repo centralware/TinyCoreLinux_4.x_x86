@@ -1,0 +1,12 @@
+Title:          minefield10.scm
+Description:    Unbranded Firefox web browser Extended Service Release 
+Version:        10.0.8
+Author:         Mozilla
+Original-site:  http://mozilla.com/firefox
+Copying-policy: MPL
+Size:		22M
+Extension_by:   Jason W
+Tags:		Web browser gtk2 mozilla firefox esr extended service release
+Comments:       ----
+Change-log:     ----
+Current:	2012/10/12 First version 10.0.8

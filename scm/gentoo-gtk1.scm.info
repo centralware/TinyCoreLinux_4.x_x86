@@ -1,0 +1,13 @@
+Title:          gentoo-gtk1.scm
+Description:    Gentoo File Manager Gtk1 version.
+Version:        0.11.57
+Author:         Emil Brink
+Original-site:  http://emelfm2.net/
+Copying-policy: GPL2
+Size: 		1.3MB
+Extension_by:   Jason W
+Tags:		gentoo file manager gtk1
+Comments:       ----
+Change-log:     ----
+Current:	2012/05/25 First version 0.11.57
+

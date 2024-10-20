@@ -1,0 +1,20 @@
+Title:          dropbear.scm
+Description:    Small SSH client and server
+Version:        2012.55
+Author:         Matt Johnston
+Original-site:  http://matt.ucc.asn.au/dropbear/dropbear.html
+Copying-policy: MIT
+Size:		209KB
+Extension_by:   Jason W
+Tags:	    	Small SSH client server
+Comments:       The dropbear package as found in TC 2.8rc1 and earlier.
+		To start the server: /apps/dropbear/etc/init.d/dropbear start
+		Contains:
+		dropbear 	-	2012.55
+		----
+		Uses the same PID file as dropbear.tcz when run as
+		a server - /var/run/dropbear.pid - so if one is running
+		the other won't start and collide with it.
+Change-log:	----
+Current:        2012/07/13 First version 2012.55
+

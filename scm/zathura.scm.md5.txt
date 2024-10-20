@@ -1,0 +1,1 @@
+48848950d14ea0406f3e2b6852fd260f  zathura.scm

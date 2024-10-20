@@ -1,0 +1,1 @@
+8aa1999d102134cafdf7547fb9341e86  ffmpeg-static-dev.scm

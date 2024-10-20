@@ -1,0 +1,16 @@
+Title:          gimp-2.6.12-gentoo.scm
+Description:    gnu image manipulation program
+Version:        2.6.12
+Author:         The GIMP project
+Original-site:  http://www.gimp.org
+Copying-policy: GPL
+Size: 		99MB
+Extension_by:   Jason W 
+Tags:	    	gnu image manipulation program
+Comments:       GNU Image Manipulation Program
+                ----------
+                This is a full version with all
+                features included except dbus.
+		
+Change-log:     ----
+Current:	2012/02/24 First version  2.6.12

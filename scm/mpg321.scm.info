@@ -1,0 +1,13 @@
+Title:          mpg321.scm
+Description:    Command line mp3 player.
+Version:        0.3.2
+Author:         Joe Drew
+Original-site:  http://sourceforge.net/projects/mpg321
+Copying-policy: GPL
+Size:		600KB
+Extension_by:   Jason W
+Tags:	    	Command line mp3 player mpg321
+Comments:       ----
+Change-log:     ----
+Current:	2012/10/18 First version 0.3.2
+

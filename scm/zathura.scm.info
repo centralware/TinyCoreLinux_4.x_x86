@@ -1,0 +1,13 @@
+Title:			zathura.tcz
+Description:		A lightweight gtk2 PDF viewer.
+Version:			0.1.2
+Author:			Moritz Lipp, Sebastian Ramacher 
+Original-site:		zathura.pwmt.org/projects/zathura
+Copying-policy:	Custom:  /apps/zathura/share/license/LICENSE
+Size:			6.9MB
+Tags:	 		lightweight gtk2 PDF viewer.
+Extension_by:	Jason W
+Comments:		----
+Change-log:		----
+Current:			2012/05/31 First version 0.1.2
+

@@ -1,0 +1,1 @@
+512a308c0fd91f58b1771385b7da27d9  abiword-2.8.scm

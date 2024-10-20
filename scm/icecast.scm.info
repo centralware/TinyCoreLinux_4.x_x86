@@ -1,0 +1,24 @@
+Title:          icecast.scm
+Description:    GPL streaming media server
+Version:        2.3.3
+Author:         /apps/icecast/share/doc/icecast/AUTHORS
+Original-site:  www.icecast.org/
+Copying-policy: GPL
+Size: 		2.1MB
+Extension_by:   Jason W
+Tags:	    	GPL streaming media music server
+Comments:       Config file is /apps/icecast/etc/icecast.xml.
+		Set path to files in config file as below:
+		 <webroot>/server/music</webroot>
+		to share the directory of /server/music.  
+		Be sure to copy over the contents of 
+		/apps/icecast/share/icecast/web/ to /server/music 
+		for the web interface to work.
+
+		To play in a media player that supports  
+		streaming, enter the below address:
+		localhost:8000/song.mp3   
+		to play song.mp3.  
+Change-log:     --------
+Current:	2012/08/02 First version 2.3.3
+

@@ -1,0 +1,10 @@
+/apps/gtk2edit/bin/gtk2edit
+/apps/gtk2edit/etc/gtk2edit.rc
+/apps/gtk2edit/localbin/gtk2edit
+/apps/gtk2edit/man/man1/gtk2edit.1
+/apps/gtk2edit/share/applications/gtk2edit.desktop
+/apps/gtk2edit/share/locale/ru/LC_MESSAGES/gtk2edit.mo
+/apps/gtk2edit/share/mime-info/gtk2edit.keys
+/apps/gtk2edit/share/pixmaps/gtk2edit/gtk2edit16.xpm
+/apps/gtk2edit/share/pixmaps/gtk2edit/gtk2edit32.xpm
+/apps/gtk2edit/share/pixmaps/gtk2edit/gtk2edit48.xpm

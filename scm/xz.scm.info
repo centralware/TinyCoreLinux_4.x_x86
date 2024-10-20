@@ -1,0 +1,12 @@
+Title:          xz.scm
+Description:    Command line tools for XZ and LZMA compressed files
+Version:        5.0.3
+Author:         Lasse Collin
+Original-site:  http://tukaani.org/xz/
+Copying-policy: OpenSource
+Size:		229K
+Extension_by:   bmarkus
+Tags:	    	XZ LZMA compression tools archive
+Comments:       Includes locale data
+Change-log:     ----
+Current:        2012/05/20 First version 5.0.3

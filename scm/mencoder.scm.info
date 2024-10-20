@@ -1,0 +1,13 @@
+Title:          mencoder.scm
+Description:    mencoder movie encoder
+Version:        1.1
+Author:         Mplayer team
+Original-site:  http://mplayerhq.hu
+Copying-policy: GPL
+Size:		11.4M
+Extension_by:   Jason W
+Tags:	    	mencoder movie encoder mplayer
+Comments:       
+Change-log:     ----
+Current: 	2012/09/24 First version 1.1
+

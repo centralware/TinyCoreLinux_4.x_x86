@@ -1,0 +1,13 @@
+Title:          wipe.scm
+Description:    Secure File Deletion Utility
+Version:        2.3.1
+Author:         Tom Vier
+Original-site:  http://wipe.sourceforge.net/
+Copying-policy: GPLv2
+Size:		32k
+Extension_by:   Jason W
+Tags:	    	Secure File Deletion Utility
+Comments:	----
+Change-log:     ----
+Current:	2012/08/12 First version 2.3.1
+

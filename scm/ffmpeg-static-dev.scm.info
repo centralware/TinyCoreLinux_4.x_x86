@@ -1,0 +1,13 @@
+Title:		ffmpeg-static-dev.scm
+Description:	ffmpeg development files
+Version:	0.9
+Author:		Fabrice Bellard
+Original-site:	http://ffmpeg.org/
+Copying-policy:	GPL
+Size:		28M
+Extension_by:	Jason W
+Tags:	 	ffmpeg development files
+Comments: 	Use in conjunction with ffmpeg-static.scm to build
+		against ffmpeg.
+Change-log:	----
+Current:	2012/03/25 First Version 0.9

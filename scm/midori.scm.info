@@ -1,0 +1,39 @@
+Title:		midori.scm
+Description:	Midori is a lightweight web browser based on WebKit/GTK+.
+Version:	0.4.3
+Author:		Christian Dywan
+Original-site:	http://www.twotoasts.de/index.php?/pages/midori_summary.html
+Copying-policy:	GPL
+Size:		31MB
+Extension_by:	Jason W
+Tags:		Midori lightweight web browser based WebKit GTK+
+Comments:	Install a gtk2 theme for full icon support.
+		Depends on gtk2.scm and Xorg-7.6-lib.tcz.
+		Install and run getFlash11.scm, and install the resulting
+		flash.scm to make use of flash. Or using getFlash11.tcz should 
+		provide the same result.
+		Contains:
+		ca-certificates - 20111211
+		desktop-file-utils - 0.19
+		glib - 2.30.2
+		gmp - 5.0.2
+		gnutls - 3.0.9	
+		gst-plugins-base - 0.10.35
+		gstreamer - 0.10.35
+		icu - 4.8.1.1
+		libffi - 3.0.10
+		libgcrypt - 1.5.0
+		libgpg-error - 1.10
+		libidn - 1.22
+		liboil - 0.3.17
+		libsoup - 2.36.1
+		libtasn1 - 2.9
+		libxslt - 1.1.26
+		midori - 0.4.3
+		nettle - 2.4
+		p11-kit - 0.9
+		sqlite3 - 3070900
+		vala - 0.14.1
+		webkit - 1.6.1
+Change-log:	----
+Current:	2012/01/29 First scm version 0.4.3

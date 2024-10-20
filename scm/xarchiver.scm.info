@@ -1,0 +1,17 @@
+Title:          xarchiver.scm
+Description:    A GTK2 archive manager that supports many formats.
+                (tar, rar, 7z, rpm, deb, gz, bz2, zip)
+Version:        0.5.2svn
+Author:         Giuseppe Torelli
+Original-site:  http://sourceforge.net/projects/xarchiver
+Copying-policy: GPLv2
+Size:           14M
+Extension_by:   perthie, Arslan S.
+Tags:	    	GTK2 archive manager that supports many formats.
+Comments:       ----
+Change-log:     2009/11/13 First version 0.5.2 by perthie
+        	2010/02/27 Updated to 0.5.2svn by Arslan S.
+		-added thunar support
+		-removed cpio executable and added cpio.tcz as a dependency
+		-removed zip & unzip executables and added zip-unzip.tcz as a dependency
+Current:	2012/03/07 Scm version - Jason W

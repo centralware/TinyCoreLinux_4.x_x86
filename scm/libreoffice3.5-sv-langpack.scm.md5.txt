@@ -1,0 +1,1 @@
+957681dc6789988cbb1c2b7b9a7a8f91  libreoffice3.5-sv-langpack.scm

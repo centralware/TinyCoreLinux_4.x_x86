@@ -1,0 +1,10 @@
+/apps/dropbear/banner/banner
+/apps/dropbear/bin/dropbear
+/apps/dropbear/bin/dropbearconvert
+/apps/dropbear/bin/dropbearkey
+/apps/dropbear/bin/scp
+/apps/dropbear/bin/ssh
+/apps/dropbear/config/install
+/apps/dropbear/etc/dropbear
+/apps/dropbear/etc/init.d/dropbear
+/apps/dropbear/localbin/dropbearmulti

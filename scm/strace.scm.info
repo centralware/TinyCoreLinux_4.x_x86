@@ -1,0 +1,13 @@
+Title:          strace.scm
+Description:    system call tracer
+Version:        4.7
+Author:         Wichert Akkerman
+Original-site:  http://sourceforge.net/projects/strace/
+Copying-policy: BSD
+Size: 		100KB
+Extension_by:   Jason W
+Tags:	    	system call tracer
+Comments:       ----
+Change-log:     ----
+Current:        2013/02/24 First version 4.7
+

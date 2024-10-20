@@ -1,0 +1,60 @@
+Title:          getFlash11.scm
+Description:    Download - Setup - Create flash.scm script.
+Version:        0.1
+Author:         roberts
+Original-site:  http://www.tinycorelinux.com
+Copying-policy: GPL
+Size:		2.7MB
+Extension_by:   roberts, Jason W
+Tags:	    Download Setup Create flash.scm script
+Comments:       Downloads from Adobe.
+                Extracts linux libflashplayer.so
+                Also includes compiled libflashsupport.so 
+		for OSS sound. libflashsupport is licensed under Creative 
+		Commons Attribution 3.0.
+                Finally packages a flash.scm to add to your scm collection.
+		It is created in /tmp/getflash.tmp.4321 after running 
+		/apps/bin/getflash11.sh.  Reaquires gtk2.scm to be loaded.
+		
+		TO SELECT PARTICULAR 11.X VERSION:
+		
+		Issue the command:
+		getflash11.sh --available
+		and that will list available versions. Then to select one of those:
+		getflash11.sh VERSION=11.2.202.228
+		will select your desired version.
+	
+		Contains the following source:
+		curl - version 7.21.7
+		nss - version 3.12.11
+		nspr - version 4.8.9
+
+
+                CAUTION: Flash11 requires gtk2.scm which is quite large.
+              
+Change-log:     2008/12/11 Original
+                2009/04/04 Now a smaller download from Adobe Site.
+	        2009/04/11 Added Seamonkey and Firefox support.
+		2009/04/16 Updated to Flash 10
+        	2009/05/06 Converted to tcz (Jason W)
+        	2009/05/18 Fix for 2.0 - Added structure to menu item
+		2009/07/31 Change in archive at Macromedia
+		2009/10/16 Changed to create tcz extension and to 
+			   make PPI compatible. (Jason W)
+		2010/09/06 Added /usr/local/lib/mozilla/plugins to install path 
+			   and create directory /usr/lib/mozilla if not found
+			   and symlink /usr/lib/mozilla/plugins to support mozillas 
+			   that do not have /usr/local/lib/mozilla/plugins specified 
+			   in their plugin path.
+		2011/07/10 Removed unneeded squashfs-tools dependency on the 
+			   resulting flash($VER).tcz.dep  (Jason W)
+		2011/08/07 Added check for already running flash install. (Jason w)
+		2011/08/14 Added auto installing when first run. (Jason W)
+		2011/10/29 Updated to flash 11.
+		2011/11/11 Fixed broken download link.
+		2011/11/12 Added option to select version.
+		2012/06/21 Improved upgrade function, added .dep file
+			           to resulting flash11.scm.
+Current:	2012/09/26 Removed --available option due to lack of availability
+				   of past releases from adobe. Updated to lates version.
+

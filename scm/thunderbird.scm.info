@@ -1,0 +1,13 @@
+Title:          	thunderbird.scm
+Description:    	Graphical email client
+Version:        	15.0
+Author:         	Mozilla Foundation
+Original-site:  	http://www.mozillamessaging.com
+Copying-policy: Mozilla
+Size:			23M
+Extension_by:   Jason W	
+Tags:           	EMAIL CLIENT GUI
+Comments:       Packed for TC4.x
+		        ----
+Change-log:	2012/07/24 First version 14.0
+Current:		2012/09/03 Update to 15.0

@@ -1,0 +1,15 @@
+Title:          tuxnes.scm
+Description:    An emulator for the 8-bit Nintendo Entertainment System
+Version:        0.75
+Author:         See /apps/tuxnes/share/tuxnes/AUTHORS
+Original-site:  http://tmmm.simplenet.com/tuxnes/index.html
+Copying-policy: GPL2
+Size: 		163KB
+Extension_by:   Jason W
+Tags:	    	tuxnes nintendo nes emulator
+Comments:       Use on the command line:
+		# tuxnes /path/to/rom
+		Many options available, see "tuxnes --help=all"
+Change-log:     --------
+Current:	2012/07/17 First version 0.75
+

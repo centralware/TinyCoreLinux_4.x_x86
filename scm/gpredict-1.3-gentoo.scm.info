@@ -1,0 +1,13 @@
+Title:          gpredict-gentoo.scm
+Description:    Real-time satellit tracking and orbit prediction
+Version:        1.3
+Author:         Alexandru Csete, OZ9AEC
+Original-site:  http://gpredict.oz9aec.net
+Copying-policy: GPLv2
+Size:		42MB
+Extension_by:   Jason W
+Tags:	    	Real-time satellit tracking orbit prediction
+Comments:       
+Change-log:     ----
+Current:        2013/02/25 First version 1.3
+

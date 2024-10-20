@@ -1,0 +1,17 @@
+Title:          mplayer-1.1-gentoo.scm
+Description:    mplayer movie player
+Version:        1.1
+Author:         Mplayer team
+Original-site:  http://mplayerhq.hu
+Copying-policy: GPL
+Size:		14.7M
+Extension_by:   Jason W
+Tags:	    	Mplayer movie player
+Comments:       Gentoo packages with the CDE 
+		environment
+		www.pgbovine.net/cde.html
+Change-log:     ----
+Current: 	2013/02/20 First version 1.1 from
+			   latest portage snapshot
+ 
+

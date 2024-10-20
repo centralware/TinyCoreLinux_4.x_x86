@@ -1,0 +1,1 @@
+007907a7ed9c668a9d735a604e3d7fbc  libreoffice3.6.scm

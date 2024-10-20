@@ -1,0 +1,19 @@
+Title:          opera9.scm
+Description:    Opera web browser
+Version:        9.64
+Author:         Opera Software
+Original-site:  http://www.opera.com
+Copying-policy: Opera license
+Size:		12.7M
+Extension_by:   Jason W
+Tags:	    	Opera web browser
+Comments:       Opera has a low-ram mode where e-mail,
+                IRC, and RSS functionality is removed, and
+                because it's primarily a browser, the icon
+                launches this low-ram mode. Both are available
+                in the menu.
+Change-log:     ----
+		2012/05/31 First version 9.64
+Current:	2013/02/16 Added fontconfig/expat and added support
+			   for recognizing installed fonts without
+			   outside dependencies.

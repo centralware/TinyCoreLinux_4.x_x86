@@ -1,0 +1,1 @@
+0679046daa2f74eb80ee62667199a358  conky.scm

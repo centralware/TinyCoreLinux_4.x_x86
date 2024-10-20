@@ -1,0 +1,36 @@
+Title:		wine.tcz
+Description:	wine - Wine Is Not an Emulator
+Version:	1.2.3
+Author:		Various (see /apps/wine/local/share/doc/License/wine-authors.txt)
+Original-site:	http://www.winehq.org
+Copying-policy:	LGPL (see /apps/wine/local/share/doc/License/wine.txt)
+Size:		23M
+Extension_by:	gutmensch
+Tags:		wine Wine Is Not an Emulator
+Comments:	This extension lacks 3D support and runs without Xorg. Steps:
+
+			1. In winecfg under Graphics uncheck 'Allow window manager to control windows'
+			2. wine myapp.exe
+			3. Check out wine-gecko.tcz and/or winetricks.tcz to get browser support and/or winetricks.
+			4. Example for winetricks.tcz:
+				$ winetricks list-download
+				$ winetricks corefonts
+
+		For 3D, printing, scanning, ldap, etc. support use the wine-gl.tcz extension.
+	   	--- 
+		This extension is PPI compatible.
+Change-log:	2008/12/31	Initial version 1.1.11
+		2010/03/03	Bumped to 1.1.39
+		2010/03/06	Adapted new mpg123 version, added libasound.tcz as dep
+		2010/03/07	Removed alsa and v4l. Bloat is in wine-gl.
+		2010/03/09	Bumped to 1.1.40
+		2010/03/18	Bumped to 1.1.41
+		2010/03/21	Dep recursion implemented, moved stdole2.tlb to wine
+		2010/03/24	Adding xcursor again since pink cursor bug should be fixed now
+		2010/03/25	Bumped to 1.1.42
+		2010/04/19	Bumped to 1.1.43
+		2010/04/26	Added libcapi20 as dep
+		2010/08/21	Bump to 1.2, build against tc 3.x
+		2010/11/11	Bump to 1.2.1, added openssl and libgsm
+		2011/07/08	Bump to 1.2.3, added external wine-gecko and winetricks packages
+Current:	2012/03/07 	Scm version

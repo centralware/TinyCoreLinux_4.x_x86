@@ -1,0 +1,37 @@
+Title:          	mc.tcz
+Description:   	User shell with text-mode full-screen interface
+Version:        	4.8.7
+Author:         	Various
+Original-site:  	http://www.midnight-commander.org
+Copying-policy: GPL v2
+Size:			13M
+Extension_by:   Jason W
+Tags:           	FILEUTILITY FTP CLI
+Comments:       	Install perl5.scm for full functionality.
+			
+			Contains:
+			libffi-3.0.10
+			mc-4.8.3
+			p7zip-9.20.1
+			pcre-8.30
+			slang-2.2.4
+			tar-1.26	
+			unrar-4.1.1
+			xz-5.0.3
+Change-log:   		2013/02/05 First version 
+Current:        	2013/02/06 Update to 4.8.7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

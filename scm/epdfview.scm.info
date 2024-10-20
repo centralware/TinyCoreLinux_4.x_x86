@@ -1,0 +1,25 @@
+Title:          epdfview.scm
+Description:    GTK2 PDF viewer.
+Version:        0.1.8
+Author:         Jordi Fita 
+Original-site:  http://trac.emma-soft.com/epdfview/
+Copying-policy: GPL
+Size:		7MB
+Extension_by:   Jason W
+Tags:	    GTK2 PDF viewer
+Comments:       Contains:
+		desktop-file-utils 	0.19
+		lcms 			1.19
+		libjpeg-turbo		1.1.1
+		openjpeg 		1.4
+		pango			1.29.4
+		poppler-data		0.4.5
+		poppler			0.18.3
+		tiff 			4.0.0
+		
+Change-log:     ---------
+        	2008/10/22 First version 0.1.6
+		2011/02/09 Update to 0.1.7, added Arch patches, and
+				   icon.
+Current:	2012/01/21 Update to 0.1.8, scm format.
+

@@ -1,0 +1,1 @@
+fb1a678892cdde916a35a45f7cf919f6  libreoffice3.5-fr-langpack.scm

@@ -1,0 +1,1 @@
+5ffd5cd1c58a37b6f497f1c784449dfc  libreoffice3.6-it-langpack.scm

@@ -1,0 +1,14 @@
+Title:          lshw.scm
+Description:    lshw (Hardware Lister)
+Version:        B.02.16
+Author:         Lyonel Vincent
+Original-site:  http://ezix.org/project/wiki/HardwareLiSter
+Copying-policy: GPLv2
+Size:           2.7MB
+Extension_by:   Jason W
+Tags:	    lshw Hardware Lister
+Comments:  	Install gtk2.scm to use the graphical tool
+			from the menu, gtk-lshw.
+Change-log:      ----
+Current:        2012/08/16 First version B.02.16
+

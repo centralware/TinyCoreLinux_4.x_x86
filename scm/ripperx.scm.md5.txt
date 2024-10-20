@@ -1,0 +1,1 @@
+666269b716fee8289e9a3db442f3a69f  ripperx.scm

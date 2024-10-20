@@ -1,0 +1,20 @@
+Title:          scmqc.scm
+Description:    Extension audit tool for the scm repo.
+Version:        0.1
+Author:         Jason W
+Original-site:  www.tinycorelinux.com
+Copying-policy: GPL-2
+Size:		327K
+Extension_by:   Jason W
+Tags:	        Extension audit tool scm repo
+Comments:       This is used to audit extensions before
+		submission.  Just open a terminal in the
+		same directory as the extensions you are
+		wanting to check and this tool will tell
+		you of any findable issues with the structure of 
+		the extensions being checked.  "scmqc"
+		is the command to run. 
+		----
+Change-log:     ----
+Current:	2012/005/12 First version
+

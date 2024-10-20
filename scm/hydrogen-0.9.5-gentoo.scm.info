@@ -1,0 +1,18 @@
+Title:          	hydrogen-0.9.5-gentoo.scm
+Description:    	Advanced Drum Machine
+Version:        	0.9.5
+Author:         	Alessandro Cominu
+Original-site:  	http://www.hydrogen-music.org/hcms/
+Copying-policy: 	GPL
+Size: 			30MB
+Extension_by:   	Jason W
+Tags:	    		Hydrogen advanced drum machine audio
+Comments:      		Gentoo packages using the CDE 
+			environment -
+			www.pgbovine.net/cde.html
+			
+			Built without Jack or Portaudio.
+Change-log:     	----
+Current:        	2013/02/22 First version 0.9.5
+
+

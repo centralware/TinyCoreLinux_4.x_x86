@@ -1,0 +1,12 @@
+Title:         	zziplib.scm
+Description:    	A lightweight interface to zip files
+Version:        	0.13.62
+Author:         	Guido Draheim
+Original-site:  	http://zziplib.sourceforge.net/
+Copying-policy: GPLv2
+Size:           	62K
+Extension_by:   Jason W
+Tags:	    	lightweight interface zip
+Comments:       ----
+Change-log:	----
+Current:        	2013/02/12 First version 0.13.62

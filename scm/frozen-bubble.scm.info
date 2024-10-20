@@ -1,0 +1,14 @@
+Title:		frozen-bubble.scm
+Description:	A game in which you throw colorful bubbles and build groups to destroy the bubbles.
+Version:	2.2.0
+Author:		The Frozen-Bubble Team
+Original-site:	http://www.frozen-bubble.org
+Copying-policy:	GPL-2
+Size:		46M
+Extension_by:	Arslan S., Jason W
+Tags:	 	game which you throw colorful bubbles build groups destroy bubbles.
+Comments:	Use OSS.tcz or alsa.tcz for sound.
+		This extension is built from frozen-bubble.tcz and it's		
+		dependencies in the tcz repo.
+Change-log:	----
+Current:	2012/04/08 Scm version 2.2.0

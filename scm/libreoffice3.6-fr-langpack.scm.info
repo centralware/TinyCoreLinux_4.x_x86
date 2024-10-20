@@ -1,0 +1,14 @@
+Title:				libreoffice3.6-fr-langpack.scm
+Description:		Libreoffice French language support package.
+Version:			3.6.0
+Author:			The Document Foundation
+Original-site:		http://www.libreoffice.org/
+Copying-policy:		LGPL-3
+Size:				4.5M
+Extension_by:		Jason W
+Tags:	 			LibreOffice Open office Productivity Suite French locale language
+Comments:		Install this along with libreoffice3.6.scm for 
+				French language with Libreoffice.
+Change-log:		----
+Current:			2012/08/27 First version 3.6.0
+

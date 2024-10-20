@@ -1,0 +1,1 @@
+8447f2b4a5fdf5d8e583c23a1250c3d1  pidgin-minimal.scm

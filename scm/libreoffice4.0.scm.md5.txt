@@ -1,0 +1,1 @@
+ecbf58c1512526803badb6fc687e1d7b  libreoffice4.0.scm

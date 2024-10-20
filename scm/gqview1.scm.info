@@ -1,0 +1,14 @@
+Title:          gqview1.scm
+Description:    GQView Image Viewer gtk1
+Version:        1.2.2
+Author:         John Ellis
+Original-site:  http://gqview.sourceforge.net
+Copying-policy: GPL
+Size: 		1.9MB
+Extension_by:   Jason W
+Tags:	    	GQView Image Viewer gtk1
+Comments:       ------
+Change-log:     ------
+Current: 	2009/05/24 First scm version 1.2.2.
+
+       

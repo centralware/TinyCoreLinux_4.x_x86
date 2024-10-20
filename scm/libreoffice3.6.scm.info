@@ -1,0 +1,18 @@
+Title:				libreoffice3.6.scm
+Description:		The LibreOffice Productivity Suite.
+Version:			3.6.0
+Author:			The Document Foundation
+Original-site:		http://www.libreoffice.org/
+Copying-policy:		LGPL-3
+Size:				219M
+Extension_by:		Jason W
+Tags:	 			LibreOffice Open office Productivity Suite
+Comments:		Contains openjdk-7-jre.tcz
+				Extracted from .deb binaries from http://www.libreoffice.org/
+Change-log:		----
+				2012/02/21 First version.
+				2012/05/28 Included self contained gtk2 install, no
+			   			   dependencies.  Update to 3.5.3.
+				2012/06/03 Update to 3.5.4, added language and help
+						   pack add on capability.
+Current:			2012/08/25 Update to 3.6.0, using gtk2.scm as dep.

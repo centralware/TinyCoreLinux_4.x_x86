@@ -1,0 +1,12 @@
+/apps/zziplib/bin/unzip-mem
+/apps/zziplib/bin/unzzip
+/apps/zziplib/bin/unzzipcat
+/apps/zziplib/bin/unzzipcat-mem
+/apps/zziplib/bin/unzzipcat-seeko
+/apps/zziplib/bin/unzzipdir
+/apps/zziplib/bin/unzzipdir-mem
+/apps/zziplib/bin/zzcat
+/apps/zziplib/bin/zzdir
+/apps/zziplib/bin/zzxorcat
+/apps/zziplib/bin/zzxorcopy
+/apps/zziplib/bin/zzxordir

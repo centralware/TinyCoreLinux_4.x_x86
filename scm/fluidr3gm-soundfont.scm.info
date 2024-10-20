@@ -1,0 +1,15 @@
+Title:          fluidr3gm-soundfont.scm
+Description:    Large, high quality sound font library
+Version:        r3
+Author:         Frank Wen and others
+Original-site:  http://www.hammersound.com/ ## Original site unavailable
+Copying-policy: Public domain
+Size: 		134MB
+Extension_by:   Jason W
+Tags:	    	Large high quality sound font library
+Comments:       Include this line in your timidity.cfg to make use of this 
+		sound font:
+		soundfont /apps/fluidr3gm-soundfont/share/soundfont/FluidR3GM.SF2
+		----------
+Change-log:	----------
+Current:        2012/05/17 first version

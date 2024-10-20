@@ -1,0 +1,19 @@
+Title:          xfe.tcz
+Description:    X File Explorer (Xfe) is a filemanager for X
+Version:        1.32.4
+Author:         Roland Baudin
+Original-site:  http://roland65.free.fr/xfe/
+Copying-policy: GPL
+Size:		4.7MB
+Extension_by:   Jason W
+Tags:	    X File Explorer Xfe filemanager X
+Comments:       Contains:
+		expat - 	version 2.0.1
+		fontconfig - 	version 2.8.0
+Change-log:     ----
+   		2009/06/03 First version 1.19.2
+		2009/10/06 Patched for the mount/umount function
+		to work with flwn (patch by Mikelockmoore).
+		2009/10/31 Patched for proper root Xfe button launch.
+		2011/06/04 Update to 1.32.3 and ported mount/umount fix.
+Current:	2011/12/31 Update to 1.32.4 and in scm format.

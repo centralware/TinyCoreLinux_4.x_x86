@@ -1,0 +1,31 @@
+Title:          opera-11.scm
+Description:    Opera browser
+Version:        11.61
+Author:         Opera Software
+Original-site:  http://www.opera.com
+Copying-policy: Opera license
+Size:		19M
+Extension_by:   Jason W
+Tags:		opera web browser
+Comments:       REQUIRES AT LEAST 24 BIT RESOLUTION.
+		Check ~/.xsession and look for similar to 
+		below, or adjust your xorg.conf for Xorg:
+		Xvesa -br -screen 1024x768x24
+		
+		
+                Since Opera has a low-ram mode where e-mail,
+                IRC, and RSS functionality is removed, and
+                because it's primarily a browser, the icon
+                launches this low-ram mode. Both are available
+                in the menu.
+		Also works with flash if gtk2.scm and getFlash11.scm
+		are used.
+		Contains:
+		expat -		version 2.0.1
+		fontconfig - 	version 2.8.0
+ 		----
+Change-log:     2011/08/06 First version 11.50
+		2011/08/06 Version 11.50
+		2011/09/21 Updated to 11.51
+		2011/11/12 Updated to 11.52
+Current:	2012/03/04 Updated to 11.61

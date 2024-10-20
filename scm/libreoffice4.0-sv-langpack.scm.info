@@ -1,0 +1,15 @@
+Title:			libreoffice4.0-sv-langpack.scm
+Description:		Libreoffice Swedish language support package.
+Version:		4.0.0
+Author:			The Document Foundation
+Original-site:		http://www.libreoffice.org/
+Copying-policy:		LGPL-3
+Size:			14M
+Extension_by:		Jason W
+Tags:	 		LibreOffice Open office Productivity Suite Swedish locale language
+Comments:		Install this along with libreoffice4.0.scm for 
+			Swedish language with Libreoffice.
+Change-log:		----
+Current:		2013/02/22First version 4.0.0
+
+

@@ -1,0 +1,12 @@
+Title:          flburn.scm
+Description:    fltk cd/dvd burner
+Version:        0.0.3
+Author:         Arman Poghosyan
+Original-site:  flburn.sourceforge.net/
+Copying-policy: GPLv3
+Size: 48KB
+Extension_by:   juanito
+Tags:	    	fltk cd dvd burner
+Comments:       optical disc burning software for linux based on fltk and libburnia
+Change-log:     ----
+Current:        2012/03/25 First version 0.0.3

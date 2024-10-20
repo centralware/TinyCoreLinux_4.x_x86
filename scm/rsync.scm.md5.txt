@@ -1,0 +1,1 @@
+b0ca098d033e8bf433ee2ccc9750737e  rsync.scm

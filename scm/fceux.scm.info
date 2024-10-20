@@ -1,0 +1,16 @@
+Title:          fceux.scm
+Description:    Fceux nintendo famicom emulator.
+Version:        2.1.5
+Author:         /apps/fceux/share/authors/Authors.txt
+Original-site:  www.fceux.com/
+Copying-policy: GPL
+Size:		1.3MB
+Extension_by:   Jason W
+Tags:	    	fceux nintendo famicom nes emulator 
+Comments:       Requires the gtk2.scm extension loaded.
+Change-log:     ----
+Current:	2012/07/18 First version 2.1.5 (Using Arch
+		Linux's build until a path issue with scons is 
+		resolved.)
+
+

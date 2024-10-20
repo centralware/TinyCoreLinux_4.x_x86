@@ -1,0 +1,1 @@
+11d3eafc6173d71f5598fc2909c77014  libreoffice3.6-uk-langpack.scm

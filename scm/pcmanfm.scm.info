@@ -1,0 +1,23 @@
+Title:          pcmanfm.tcz
+Description:    Extremely fast, lightweight yet feature rich file manager
+Version:        0.5.2
+Author:         Hon Jen Yee (PCMan)
+Original-site:  http://pcmanfm.sourceforge.net
+Copying-policy: GPL v2
+Size:           6.3MB
+Extension_by:   bmarkus, Jason W (scm)
+Tags:	    	Extremely fast lightweight file manager gtk2 pcmanfm
+Comments:       Binaries only
+                ----
+                HAL disabled
+                ----
+                Compiled for TC2.x
+                ----
+Change-log:     2009/07/02 First version
+                2009/11/12 Updated to 0.5.2
+                2009/11/28 Startup script changed for better DE integration
+                2009/12/08 Recompiled
+                2009/12/20 Default icon theme changed to LXDE's nuoveXT2
+        	2009/12/27 Typo in icon theme name fixed
+Current:	2012/10/27 Scm version (Jason W)
+

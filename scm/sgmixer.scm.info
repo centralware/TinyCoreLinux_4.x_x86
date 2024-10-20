@@ -1,0 +1,13 @@
+Title:          sgmixer.scm
+Description:    A simple GTK2 audio mixer
+Version:        0.3
+Author:         Miroslav Yordanov
+Original-site:  http://sourceforge.net/projects/freshmeat_sgmixer
+Copying-policy: GPL
+Size:           12K
+Extension_by:   perthie
+Tags:	    	GTK2 audio mixer 
+Comments:       Pressing the button for a device will mute it.
+Change-log:     -------------
+Current:        2013/02/14 First version 0.3
+

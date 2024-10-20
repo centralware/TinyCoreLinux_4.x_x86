@@ -1,0 +1,19 @@
+Title:		gvim.scm
+Description:	Vim Text Editor with gtk2 interface
+Version:	7.3
+Author:		Brian Moolenar
+Original-site:	http://www.vim.org
+Copying-policy:	GPL compatible
+Size:		8.4M
+Extension_by:	Jason W
+Tags:		Vim Text Editor gtk2 graphic interface
+Comments:	This version has gtk2 graphical support.
+		
+		7.3 with patches.  Depends on gtk2.scm, but can
+		be invoked on the command line as vim.  This package
+		collides with vim.scm, install one or the other.
+Change-log:     ----
+Current:        2012/10/20 First version 7.3
+
+
+

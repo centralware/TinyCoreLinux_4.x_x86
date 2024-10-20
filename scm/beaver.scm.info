@@ -1,0 +1,12 @@
+Title:          beaver.scm
+Description:    beaver gtk2 text editor
+Version:        0.4.1
+Author:         Marc Bevand, Emmanuel Turquin, 	Damien Terrier	
+Original-site:  http://beaver-editor.sourceforge.net/
+Copying-policy: GPL2
+Size: 		172KB
+Extension_by:   Jason W
+Tags:	        beaver gtk2 text editor
+Comments:       ----
+Current:        2012/05/26 First scm build 0.4.1
+

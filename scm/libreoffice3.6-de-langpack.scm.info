@@ -1,0 +1,14 @@
+Title:				libreoffice3.6-de-langpack.scm
+Description:		Libreoffice German language support package.
+Version:			3.6.0
+Author:			The Document Foundation
+Original-site:		http://www.libreoffice.org/
+Copying-policy:		LGPL-3
+Size:				22M
+Extension_by:		Jason W
+Tags:	 			LibreOffice Open office Productivity Suite German locale language
+Comments:		Install this along with libreoffice3.6.scm for 
+			German language with Libreoffice.
+Change-log:		----
+Current:			2012/06/03 First version 3.6.0
+

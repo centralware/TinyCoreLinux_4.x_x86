@@ -1,0 +1,1 @@
+6f08683022522a27d61dd49d7dfbeaad  xchat2.scm

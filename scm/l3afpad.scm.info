@@ -1,0 +1,14 @@
+Title:          l3afpad.scm
+Description:    L3afpad Text Editor - a GTK3 leafpad fork
+Version:        0.8.18.1.6
+Author:         Wen-Yen Chuang
+Original-site:  http://tarot.freeshell.org/leafpad/
+Copying-policy: GPL
+Size:		200K
+Extension_by:   Jason W
+Tags:	    L3afpad Text Editor GTK3 leafpad fork
+Comments:       Text editor, gtk3, gtk 
+		Requires the gtk3.scm extension loaded.
+Change-log:     ----
+Current:	2012/01/05 First version 0.8.18.1.6
+

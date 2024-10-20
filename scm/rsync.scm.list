@@ -1,0 +1,7 @@
+/apps/rsync/bin/rsync
+/apps/rsync/lib/libiconv.so
+/apps/rsync/lib/libiconv.so.2
+/apps/rsync/lib/libiconv.so.2.5.1
+/apps/rsync/localbin/rsync
+/apps/rsync/share/man/man1/rsync.1
+/apps/rsync/share/man/man5/rsyncd.conf.5

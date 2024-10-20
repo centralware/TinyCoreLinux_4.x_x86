@@ -1,0 +1,14 @@
+Title:          stella.scm
+Description:    A multi-platform Atari 2600 VCS emulator
+Version:        3.3
+Author:         Bradford W. Mott and the Stella Team
+Original-site:  http://stella.sourceforge.net
+Copying-policy: GPL
+Size:		1.4M
+Extension_by:   Jason W
+Tags:	    	multi-platform Atari 2600 VCS emulator
+Comments:       -----
+Change-log:     -----
+        	2009/02/22 First version.
+		2011/05/08 Update to 3.3
+Current:	2012/05/20 Scm port.

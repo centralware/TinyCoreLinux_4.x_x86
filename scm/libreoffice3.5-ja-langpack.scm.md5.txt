@@ -1,0 +1,1 @@
+3c9b17eac7d5fadd60536a9802b0fe4c  libreoffice3.5-ja-langpack.scm

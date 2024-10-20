@@ -1,0 +1,13 @@
+Title:          lame.tcz
+Description:    The lame mp3 encoder
+Version:        3.99
+Author:         Mark Taylor
+Original-site:  http://lame.sourceforge.net/index.php
+Copying-policy: GNU Lesser GPL
+Size:		1.1M
+Extension_by:   Jason W
+Tags:	    lame mp3 encoder
+Comments:       Contains:  ncurses    5.9
+Change-log:    
+Current: 	2012/06/07 First version 3.99
+

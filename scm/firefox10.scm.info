@@ -1,0 +1,16 @@
+Title:          firefox10.scm
+Description:    Firefox web browser Extended Support Release version 10
+Version:        10.0.12
+Author:         The Mozilla Community
+Original-site:  www.mozilla.com/firefox/ 
+Copying-policy: MPL
+Size:		21M
+Extension_by:   Jason W
+Tags:		Web browser gtk2 mozilla firefox extended release
+Comments:       This is the official build of Firefox Extended Release
+			Version 10.
+Change-log:     ----
+		2012/09/08 First Version 10.0.7
+		2012/10/09 Update to 10.0.8
+Current:	2013/01/31 Update to 10.0.12
+

@@ -1,0 +1,15 @@
+Title:          xboard.scm
+Description:    A GUI frontend to GNU chess
+Version:        4.4.2
+Author:         Tim Mann
+Original-site:  http://www.tim-mann.org/xboard.html
+Copying-policy: GPL
+Size:		1.3MB
+Extension_by:   Jason W
+Tags:	    	GUI frontend GNU chess
+Comments:       This extension is PPI compatible.
+Change-log:     2010/03/16 First version 4.4.2
+Current:	2012/05/16 Ported to scm format.
+
+
+

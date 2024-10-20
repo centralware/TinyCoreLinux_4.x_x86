@@ -1,0 +1,51 @@
+Title:          gtk2.scm
+Description:    The Gimp Tool Kit. 
+Version:        2.24.13
+Author:         Gnome Foundation
+Original-site:  www.gtk.org
+Copying-policy: GNU Lesser GPL
+Size:		24MB
+Extension_by:   Jason W
+Tags:	    Gimp Tool Kit
+Comments:       This is needed to run gtk2 apps.  This also contains files from Xorg-7.6-lib.tcz and 
+		Xlibs.tcz.
+		Contains:
+		atk - 			version 2.6.0
+		cairo - 		version 1.10.2
+		expat - 		version 2.0.1
+		fontconfig - 		version 2.10.1
+		gdk-pixbuf2 - 		version 2.26.4
+		glib2 - 		version 2.34.2
+		gtk2 - 			version 2.24.13
+		hicolor-icon-theme - 	version 0.12
+		libffi - 		version 3.0.11
+		libjpeg-turbo -		version 1.2.1
+		libxft -		version 2.3.1
+		libxml2 - 		version 2.9.0
+		pango - 		version 1.30.1
+		pixman - 		version 0.26.2
+		tiff -			version 4.0.3
+		
+Change-log:     -------
+      		2009/02/20 First version as standalone.
+ 		2009/10/21 Upgraded to 2.18.3
+		2009/12/06 Updated to 2.18.5
+		2010/02/21 Updated to 2.18.7.
+		2010/05/27 Updated to 2.20.1
+		2010/07/24 Using startup script to make writable
+			   config files.
+		2010/10/13 Updated to 2.22.0
+		2010/10/27 Fixed cups print backend
+		2010/11/26 Updated to 2.22.1
+		2011/02/15 Updated to 2.24.0
+		2011/02/27 Updated to 2.24.1
+		2011/03/26 Updated go 2.24.3
+		2011/05/06 Updated to 2.24.4 
+			   (with Slackware patches)
+		2011/07/06 Updated to 2.24.5
+		2011/09/17 Updated to 2.24.6
+		2011/10/24 Updated to 2.24.7 and enabled gir repository.
+		2011/11/15 Updated to 2.24.8
+		2011/12/31 Ported to scm format and included deps.
+		2012/05/28 Fixed gdk-pixbuf2 build.
+Current:	2012/11/10 General update.

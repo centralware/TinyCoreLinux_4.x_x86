@@ -1,0 +1,34 @@
+Title:          audacity-1.3.scm
+Description:    A cross-platform multitrack audio editor
+Version:        1.3.14
+Author:         Dominic Mazzoni
+Original-site:  http://audacity.sourceforge.net/
+Copying-policy: GPL
+Size:		16M
+Extension_by:   Jason W
+Tags:	    	cross-platform multitrack audio editor
+Comments:       Contains:
+		lame		3.99.3
+		ncurses		5.9
+		ffmpeg		0.7.11
+		flac 		1.2.1
+		giflib		4.1.6
+		id3lib 		3.8.3
+		lcms		1.19
+		libffi		3.0.10
+		libid3tag	0.15.1b
+		libmad 		0.15.1b
+		libogg 		1.3.0
+		libsamplerate	0.1.8
+		libsndfile	1.0.25
+		libtheora	1.1.1
+		libvorbis	1.3.2
+		soundtouch	1.5.0
+		tiff 		4.0.0
+		wxgtk		2.8.12
+Change-log:     ----
+   		2011/10/17 First version 1.3.13
+		2012/01/21 update to 1.3.14 and scm format.
+		2012/03/25 Added shared ffmpeg build for greater functionality.
+Current:	2012/04/02 Using Debian's libsndfile to avoid wav issues.
+

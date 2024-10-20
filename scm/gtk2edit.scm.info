@@ -1,0 +1,13 @@
+Title:          gtk2edit.scm
+Description:    Gtk2 text editor.
+Version:        2.0.4
+Author:         Victor Porton
+Original-site:  http://sourceforge.net/projects/gtk2edit/
+Copying-policy: GPL2
+Size: 		65kb
+Extension_by:   Jason W
+Tags:		gtk2 text editor
+Comments:       ----
+Change-log:     ----
+Current:	2012/05/25 First version 2.0.4
+

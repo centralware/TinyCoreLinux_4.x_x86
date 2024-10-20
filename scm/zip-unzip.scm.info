@@ -1,0 +1,13 @@
+Title:          zip-unzip.scm
+Description:    High-quality versions of the Zip and UnZip compressor-archiver utilities.
+Version:        zip 3.0/unzip 6.0
+Author:         Various
+Original-site:  http://info-zip.org/
+Copying-policy: Info-ZIP License
+Size:           418K
+Extension_by:   Arslan S.
+Tags:	    High-quality versions Zip UnZip compressor-archiver utilities.
+Comments:	 ---
+Change-log:     ---
+Current:        2012/06/08 Scm version 3.0/6.0 (Jason W)
+

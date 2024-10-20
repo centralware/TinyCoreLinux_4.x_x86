@@ -1,0 +1,12 @@
+Title:          mtpaint1.scm
+Description:    mtPaint for gtk1
+Version:        3.40
+Author:         Mark Tyler
+Original-site:  http://mtpaint.sourceforge.net
+Copying-policy: GPL
+Size:		2.9MB
+Extension_by:   Jason W
+Tags:	    	mtPaint image editor gtk1
+Comments:       ----
+Change-log:     ----
+Current:        2012/05/24 First version 3.40

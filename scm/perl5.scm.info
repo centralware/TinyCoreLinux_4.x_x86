@@ -1,0 +1,25 @@
+Title:          perl5.scm
+Description:    Practical Extraction and Report Language
+Version:        5.16.0
+Author:         Larry Wall and others.
+Original-site:  www.perl.org/
+Copying-policy: GPL, PerlArtistic
+Size: 		17MB
+Extension_by:   juanito
+Tags:	    Practical Extraction Report Language
+Comments:       a high-level, general-purpose, interpreted, dynamic programming..
+                ..language. Perl was originally developed by Larry Wall, as a..
+                ..general-purpose scripting language to make report..
+                ..processing easier
+                ----------
+                Contains:
+		perl 	-	5.16.0
+		bzip2	-	1.0.6
+		db 	-	5.3.15
+		gawk 	-	4.0.1
+		gdbm 	-	1.10
+		
+                ----------
+Change-log:     ----------
+Current:        2012/07/04 First version 5.16.0
+

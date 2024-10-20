@@ -1,0 +1,19 @@
+Title:			libreoffice4.0.scm
+Description:		The LibreOffice Productivity Suite.
+Version:		4.0.0.3
+Author:			The Document Foundation
+Original-site:		http://www.libreoffice.org/
+Copying-policy:		LGPL-3
+Size:			255M
+Extension_by:		Jason W
+Tags:	 		LibreOffice Open office Productivity Suite
+Comments:		Contains openjdk-7-jre.tcz
+			Extracted from .deb binaries from http://www.libreoffice.org/
+			Needs gtk2.scm as a dep.
+			
+			Be sure to remove or move old config file in 
+			~/.config/libreoffice as one created with a previous
+			version of libreoffice will not work with 
+			libreoffice4.0.  
+Change-log:		----
+Current:		2013/02/13 First version 4.0.0.3

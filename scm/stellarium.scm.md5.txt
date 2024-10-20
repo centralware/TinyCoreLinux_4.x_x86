@@ -1,0 +1,1 @@
+c343e5261196d86a9bc460db4ea201a6  stellarium.scm

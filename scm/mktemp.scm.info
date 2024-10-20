@@ -1,0 +1,12 @@
+Title:          mktemp.scm
+Description:    Make unique temporary file name.
+Version:        1.6
+Author:         Todd C. Miller
+Original-site:  http://www.mktemp.org/
+Copying-policy: BSD
+Size: 		4K
+Extension_by:   Jason W
+Tags:	    	Make unique temporary file name.
+Comments:       ----
+Change-log:     ----
+Current:   	2009/04/03 First scm version 1.6

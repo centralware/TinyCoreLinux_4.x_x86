@@ -1,0 +1,45 @@
+Title:          timidity-basic.scm
+Description:    midi-to-wave converter and player
+Version:        2.13.2
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 		5.4MB
+Extension_by:   Juanito, (jason w scm build)
+Tags:	    	midi-to-wave converter player
+Comments:       TiMidity++ is a software synthesizer. It can play MIDI files..
+                ..by converting them into PCM waveform data; give it a MIDI data..
+                ..along with digital instrument data files, then it synthesizes..
+                ..them in real-time, and plays. It can not only play sounds,
+                but also can save the generated waveforms.
+                ----------
+                should play with alsa and oss
+                ----------
+
+		unison-soundfont.scm is the preconfigured sound font enabled
+		in the /apps/timidity-basic/etc/timidity.cfg file.  Just install
+		unison-soundfont.scm and then use timidity.  Otherwise:
+
+		Install a soundfont package, edit /apps/timidity-basic/etc/timidity.cfg
+		to match your installed soundfont extension, the file is commented 
+		to make it simple.  Then add /apps/timidity-basic/etc/timidity.cfg
+		to your backup for persistence across reboots.
+		Available soundfont extensions at present:
+		freepats.scm
+		unison-soundfont.scm
+		fluidr3gm-soundfont.scm
+		
+                ----------
+                This extension contains:
+                TiMidity++-2.13.2 - GPLv2 - http://downloads.sourceforge.net/project/timidity/TiMidity++/TiMidity++-2.13.2/TiMidity++-2.13.2.tar.bz2
+                libao - 1.1.0
+		flac - 1.2.1
+		jack - 0.121.3
+		libogg - 1.3.0
+		libsamplerate - 0.1.8
+		libsndfile - 1.0.25
+		libvorbis - 1.3.2
+		ncurses - 5.9
+		----------
+                
+Current:        2012/05/17 first version

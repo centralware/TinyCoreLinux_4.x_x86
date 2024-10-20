@@ -1,0 +1,1 @@
+6182831f8abc7075d38d30e9765f9204  gimp-2.6.12-gentoo.scm

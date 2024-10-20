@@ -1,0 +1,17 @@
+Title:          smplayer-0.8.3-gentoo.scm
+Description:    SMplayer Mplayer GUI
+Version:        0.8.3
+Author:         Various
+Original-site:  http://smplayer.sf.net
+Copying-policy: GPL
+Size:		48MB
+Extension_by:   Jason W	
+Tags:	    	SMplayer Mplayer GUI
+Comments:	Gentoo packages with the CDE 
+		environment
+		www.pgbovine.net/cde.html
+		Made from the latest shapshot 
+		of portage - 2013/02/20   
+Change-log:     ----
+Current:        2013/02/20 First version 0.8.3
+

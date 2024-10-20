@@ -1,0 +1,19 @@
+Title:          freepats.scm
+Description:    free sound patches
+Version:        20060218
+Author:         Free Software Foundation
+Original-site:  http://freepats.zenvoid.org/
+Copying-policy: GPL
+Size: 		30MB
+Extension_by:   Jason W
+Tags:	    	free sound patches
+Comments:       Use these lines in your timidity.cfg to use this set
+		of sound patches, uncomment them in timidity-basic.scm 
+		to make use of them:
+	
+		dir /apps/freepats/share/freepats/
+                source /apps/freepats/share/freepats/freepats.cfg
+
+		----------
+Change-log:	----------              
+Current:        2012/05/17 first version

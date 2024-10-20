@@ -1,0 +1,16 @@
+Title:		vim.scm
+Description:	Vim Text Editor
+Version:	7.3
+Author:		Brian Moolenar
+Original-site:	http://www.vim.org
+Copying-policy:	GPL compatible
+Size:		8.4M
+Extension_by:	Jason W
+Tags:		Vim Text Editor
+Comments:	This version does not have graphical support.
+		7.3 with patces.  No dependencies.
+Change-log:     ----
+Current:        2012/10/19 First version 7.3
+
+
+

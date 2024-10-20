@@ -1,0 +1,1 @@
+a660e2de91e23277bbdfbe770f7f3229  ImageMagick.scm

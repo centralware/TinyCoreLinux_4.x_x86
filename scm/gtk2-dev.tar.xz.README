@@ -1,0 +1,4 @@
+Untar this in your /apps directory, will untar as gtk2/, to
+build against.  Unload gtk2.scm first before doing this and
+do not load gtk2.scm until you deleted this untarred directory.
+

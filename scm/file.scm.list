@@ -1,0 +1,10 @@
+/apps/file/bin/file
+/apps/file/lib/libmagic.so
+/apps/file/lib/libmagic.so.1
+/apps/file/lib/libmagic.so.1.0.0
+/apps/file/localbin/file
+/apps/file/share/license/COPYING
+/apps/file/share/man/man1/file.1
+/apps/file/share/man/man3/libmagic.3
+/apps/file/share/man/man4/magic.4
+/apps/file/share/misc/magic.mgc

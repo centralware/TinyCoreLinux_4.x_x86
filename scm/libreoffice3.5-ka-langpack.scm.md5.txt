@@ -1,0 +1,1 @@
+07804fd04f2aae82b784df4ee6b88fdd  libreoffice3.5-ka-langpack.scm

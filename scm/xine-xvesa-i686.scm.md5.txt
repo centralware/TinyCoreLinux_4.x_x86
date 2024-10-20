@@ -1,0 +1,1 @@
+b84876adabba394ad4b0a0348d44549d  xine-xvesa-i686.scm

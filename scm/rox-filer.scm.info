@@ -1,0 +1,16 @@
+Title:          rox-filer.tcz
+Description:    Rox Filer file manager.
+Version:        2.11
+Author:         Thomas Leonard 
+Original-site:  rox.sourceforge.net
+Copying-policy: GPL
+Size: 		2MB
+Extension_by:   Jason W
+Tags:	    Rox Filer file manager
+Comments:       ---------
+Change-log:     2009/01/01 First version 2.8	 	
+ 		2009/11/14 Upgraded to 2.10 and added freedesktop 
+		entries.
+		2010/09/13 Used nostrip patch, and corrected large file
+		support issue.
+Current:	2012/02/10 Scm version 2.11

@@ -1,0 +1,19 @@
+Title:          abiword.scm
+Description:    Abiword word processor - TESTING scm version
+Version:        2.6.8
+Author:         Various
+Original-site:  http://abisource.com
+Copying-policy: GPL
+Size:		20M
+Extension_by:   Curaga
+Tags:	    Abiword word processor  scm version
+Comments:       Abiword is a light-weight but featureful word 
+		processor. Files from abiword-plugins.tcz
+		are included.
+Change-log:     
+        	2009/04/30 Original
+		2012/02/09 Made into scm by Jason W
+Current:	2012/05/27 Now using wrapper by uggla that fixes
+		           the previous inability to use command	
+			   line arguments when launching from 	
+			   terminal.

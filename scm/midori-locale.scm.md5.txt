@@ -1,0 +1,1 @@
+02ee4efb3e3e12095283fb9779d2dbfe  midori-locale.scm

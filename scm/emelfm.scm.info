@@ -1,0 +1,13 @@
+Title:          emelfm.scm
+Description:    emelfm gtk1 file manager
+Version:        0.9.2
+Author:         Michael Clark
+Original-site:  http://www.pitt.edu/~macst92/emelfm/
+Copying-policy: GPL2
+Size: 		1.3MB
+Extension_by:   Jason W
+Tags:	    	emelfm gtk1 file manager
+Comments:       ----
+Change-log:     ----
+Current: 	2012/05/24 First scm version 0.9.2
+

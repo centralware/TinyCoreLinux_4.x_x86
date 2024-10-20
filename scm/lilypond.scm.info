@@ -1,0 +1,17 @@
+Title:		lilypond.scm
+Description:	automated music engraving notation system
+Version:	2.12.2
+Author:		GNU Project, Linux Audio Developers group
+Original-site:	http://lilypond.org/web/index
+Copying-policy:	GNU LIBRARY GENERAL PUBLIC LICENSE
+Extension_by:	jpeters
+Tags:		automated music engraving notation system
+Comments:	no menu, runs from terminal:  "lilypond <myfile>"
+		file example: { a' d' e' }
+		Creates myfile.pdf
+Size:		20M		
+		2009/02/15 First version 2.12.2
+Current:	2012/03/03 Scm version - Jason w
+
+
+

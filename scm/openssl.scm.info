@@ -1,0 +1,16 @@
+Title:          openssl.scm
+Description:    The Open Source toolkit for SSL/TLS
+Version:        1.0.0e
+Author:         OpenSSL Project
+Original-site:  http://www.openssl.org/
+Copying-policy: OpenSSL License:  http://www.openssl.org/source/license.html
+Size:		1.3M
+Extension_by:   Jason W
+Tags:	    Open Source toolkit SSL TLS
+Comments:       ----------
+Change-log:     ----------
+		2011/08/15 First version 1.0.0d
+		2011/10/31 Update to 1.0.0e and move into standard path.
+		2011/11/04 Using shared build
+Current:	2012/01/05 Available in scm format.
+

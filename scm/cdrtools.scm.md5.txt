@@ -1,0 +1,1 @@
+5768990d8c8b2db07254d68f13d0cfa5  cdrtools.scm

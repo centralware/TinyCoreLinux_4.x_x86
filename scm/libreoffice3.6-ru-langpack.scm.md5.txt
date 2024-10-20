@@ -1,0 +1,1 @@
+d8a09e862cb2ab836e593ab9eb6da59e  libreoffice3.6-ru-langpack.scm

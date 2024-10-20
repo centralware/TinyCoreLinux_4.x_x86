@@ -1,0 +1,1 @@
+2ddcaf4032336a08b51f0be4942b85f2  libreoffice3.5-zh_CN-langpack.scm

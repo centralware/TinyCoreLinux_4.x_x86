@@ -1,0 +1,17 @@
+Title:          geany.scm
+Description:    Geany text editor/IDE.
+Version:        0.21
+Author:         Enrico Troeger
+Original-site:  http://geany.uvena.de/
+Copying-policy: GPL
+Size:		2.5M
+Extension_by:   Jason W
+Tags:	    Geany text editor IDE
+Comments:       Change the terminal command in Edit > Preferences > Tools
+		from "xterm" to "aterm -e sh -c" to fix issue with 
+		terminal window when running scripts.
+Change-log:     ----
+		
+Current:	2012/01/10  First scm version 0.21
+
+

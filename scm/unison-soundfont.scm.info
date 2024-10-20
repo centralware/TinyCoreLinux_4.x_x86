@@ -1,0 +1,19 @@
+Title:          unison-soundfont.scm
+Description:    midi-to-wave converter and player
+Version:        1
+Author:         Peter Jevnisek
+Original-site:  http://www.personalcopy.com/home.htm
+Copying-policy: Custom
+Size: 		24MB
+Extension_by:   Jason W
+Tags:	    	audio sound fonts
+Comments:       This sound font is enabled by default in 
+		timidity-basic.scm.  Just load this extension
+		to use timidity.  The line below is what uses this
+		font in your timidity.cfg:
+
+		soundfont /apps/unison-soundfont/share/soundfont/Unison.sf2
+
+		----------
+Change-log:	----------              
+Current:        2012/05/17 first version

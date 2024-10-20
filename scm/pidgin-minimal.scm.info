@@ -1,0 +1,23 @@
+Title:		pidgin-minimal.scm
+Description:	A multi-protocol instant messaging (IM) client
+Version:	2.10.6
+Author:		Sean Egan
+Original-site:	http://pidgin.im/
+Copying-policy:	GPL
+Size:		15M
+Extension_by:	Jason W
+Tags:	 	multi-protocol instant messaging IM client
+Comments:	Contains:
+		pidgin-2.10.6
+		gmp-5.0.2
+		gnutls-3.0.9
+		libgcrypt-1.5.0
+		libgpg-error-1.10
+		libidn-1.22
+		libtasn1-2.9
+		ncurses-5.9
+		nettle-2.4
+		p11-kit-0.9
+Change-log:	2012/01/05 First version 2.10.1
+Current:	2013/02/11 Update to 2.10.6
+

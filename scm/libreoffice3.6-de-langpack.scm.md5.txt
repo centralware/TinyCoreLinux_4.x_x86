@@ -1,0 +1,1 @@
+075322a78f307cfbf4a9f9b555a3584c  libreoffice3.6-de-langpack.scm

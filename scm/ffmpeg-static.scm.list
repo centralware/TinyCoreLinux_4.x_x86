@@ -1,0 +1,13 @@
+/apps/ffmpeg-static/bin/avconv
+/apps/ffmpeg-static/bin/ffmpeg
+/apps/ffmpeg-static/bin/ffprobe
+/apps/ffmpeg-static/bin/ffserver
+/apps/ffmpeg-static/include
+/apps/ffmpeg-static/lib
+/apps/ffmpeg-static/share/ffmpeg/libvpx-1080p.ffpreset
+/apps/ffmpeg-static/share/ffmpeg/libvpx-1080p50_60.ffpreset
+/apps/ffmpeg-static/share/ffmpeg/libvpx-360p.ffpreset
+/apps/ffmpeg-static/share/ffmpeg/libvpx-720p.ffpreset
+/apps/ffmpeg-static/share/ffmpeg/libvpx-720p50_60.ffpreset
+/apps/ffmpeg-static/share/ffmpeg/libx264-ipod320.ffpreset
+/apps/ffmpeg-static/share/ffmpeg/libx264-ipod640.ffpreset

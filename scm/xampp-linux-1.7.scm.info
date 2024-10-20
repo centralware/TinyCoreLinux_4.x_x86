@@ -1,0 +1,131 @@
+Title:		xampp-linux-1.7.scm
+Description:	XAMPP is an easy to install Apache distribution containing MySQL, PHP and Perl
+		It is not meant to be used on a production server due to security issues
+Version:	1.7.7
+Author:		Kai 'Oswald' Seidler <oswald at apachefriends dot org>
+Original-site:	http://www.apachefriends.org/
+Copying-policy:	GPL, every single license of the contained products in /opt/lampp/licenses
+Size:		87.0M
+Extension_by:	AbNoRMiS
+Tags:		XAMPP LAMPP Apache MySQL PHP Perl ProFTPD phpMyAdmin Webaliser eAccelerator SQLite
+Comments:	ABOUT
+		The XAMPP distribution for Linux systems contains: Apache, MySQL, PHP & PEAR,
+		Perl, ProFTPD, phpMyAdmin, OpenSSL, GD, Freetype2, libjpeg, libpng, gdbm,
+		zlib, expat, Sablotron, libxml, Ming, Webalizer, pdf class, ncurses, mod_perl,
+		FreeTDS, gettext, mcrypt, mhash, eAccelerator, SQLite and IMAP C-Client.
+		----
+		REQUIREMENTS
+		The XAMPP scripts are require Bash.
+		The XAMPP control panel require PyGTK with Libglade (optional).
+		----
+		CONFLICTS
+		Configuration files of this XAMPP version causes conflicts with other versions
+		----
+		SECURITY
+		As mentioned before, XAMPP is not meant for production use but only for
+		developers in a development environment. The way XAMPP is configured is
+		to be open as possible and allowing the developer anything he/she wants.
+		For development environments this is great but in a production environment
+		it could be fatal.
+		Here a list of missing security in XAMPP:
+		    1. The MySQL administrator (root) has no password.
+		    2. The MySQL daemon is accessible via network.
+		    3. ProFTPD uses the password "lampp" for user "nobody".
+		    4. PhpMyAdmin is accessible via network.
+		    5. Examples are accessible via network.
+		    6. MySQL and Apache running under the same user (nobody).
+		To fix most of the security weaknesses simply call the following command:
+		    /opt/lampp/lampp security
+		It starts a small security check and makes your XAMPP installation quite
+		secure. For example this protects the XAMPP demo pages by a username
+		('lampp') and password combination.
+		After calling this command your XAMPP installation should be "secure".
+		For developer's part have no reason what else could be insecure.
+		See also how can make XAMPP installation more secure at this Linux FAQ:
+		    http://www.apachefriends.org/en/faq-xampp-linux.html#sicherer
+		----
+		BASICS
+		Complete list of XAMPP administering actions can be looked calling this command:
+		    /opt/lampp/lampp
+		To start XAMPP simply call this command:
+		    /opt/lampp/lampp start
+		This command is added into /opt/bootlocal.sh during XAMPP installation.
+		If got any error messages during start XAMPP please look this Linux FAQ:
+		    http://www.apachefriends.org/en/faq-xampp-linux.html
+		After the Apache and MySQL began running then just visit this URL:
+		    http://localhost
+		To stop XAMPP can simply call this command:
+		    /opt/lampp/lampp stop
+		This command is also added into /opt/shutdown.sh during XAMPP installation.
+		----
+		SETTINGS
+		/opt/lampp/etc/httpd.conf		 - Apache configuration
+		/opt/lampp/etc/my.cnf			 - MySQL configuration
+		/opt/lampp/etc/php.ini			 - PHP configuration
+		/opt/lampp/etc/proftpd.conf		 - ProFTPD configuration
+		/opt/lampp/etc/phpmyadmin/config.inc.php - phpMyAdmin configuration (tinycore)
+		/opt/lampp/etc/xampp.users		 - XAMPP pages user password (tinycore)
+		----
+		DIRECTORIES
+		/opt/lampp/bin/		 - commands home (symlinked)
+		/opt/lampp/htdocs/	 - DocumentRoot
+		/opt/lampp/logs/	 - Apache logs
+		/opt/lampp/tmp/		 - temporary files
+		/opt/lampp/var/mysql/	 - MySQL databases
+		----
+		INCLUDES
+		 - Apache 2.2.21
+		 - MySQL 5.5.16
+		 - PHP 5.3.8
+		 - Perl 5.10.1
+		 - ProFTPD 1.3.3e
+		 - phpMyAdmin 3.4.5
+		 - OpenSSL 1.0.0c
+		 - GD 2.0.1
+		 - Freetype 2.1.7
+		 - libjpeg 6b
+		 - libpng 1.2.12
+		 - gdbm 1.8.0
+		 - zlib 1.2.3
+		 - expat 1.95.2
+		 - Sablotron 1.0
+		 - libxml 2.7.6
+		 - libxslt 1.1.26
+		 - Ming 0.4.3
+		 - Webalizer 2.21-02
+		 - pdf class 009e
+		 - ncurses 5.7
+		 - mod_perl 2.0.5
+		 - FreeTDS 0.63
+		 - gettext 0.17
+		 - IMAP C-Client 2007e
+		 - OpenLDAP (client) 2.4.21
+		 - mhash library 0.8.18
+		 - mcrypt library 2.5.7
+		 - cURL 7.21.0
+		 - SQLite 2.8.17 (for PHP4 + PHP5)
+		 - SQLite 3.6.16 (for PHP5 PDO SQLite)
+		 - libapreq 2.12
+		 - eAccelerator 0.9.6.1
+		 - FPDF 1.6
+		 - bzip2 (library) 1.0.5
+		 - PBXT 1.0.11-6-pre-ga
+		 - PBMS 0.5.15 (but disabled)
+		 - PBMSlib 0.5.15
+		 - ICU4C Library 4.2.1
+		----
+		CHANGES
+		 - Fixed a problem with MySQL 5.5.x and XAMPP's backup script
+		 - New version of mod_perl (2.0.5)
+		 - New version of ProFTPD (1.3.3e)
+		 - New version of phpMyAdmin (3.4.5)
+		 - New version of PHP (5.3.8)
+		 - New version of Apache (2.2.21)
+		 - New version of MySQL (5.5.16)
+		----
+		Created for TC 4+
+		----
+		PPI Compatible
+		----
+Change-log:	2012/06/16 First release. Version 1.7.7
+Current:	2012/06/16 First release. Version 1.7.7

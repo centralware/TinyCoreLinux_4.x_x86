@@ -1,0 +1,15 @@
+Title:          mousepad.scm
+Description:    A simple text editor for Xfce
+Version:        0.2.16
+Author:         Erik Harrison, Benedikt Meuer, Tarot Osuji
+Original-site:  http://www.xfce.org/projects/mousepad/
+Copying-policy: GPL v2
+Size:           1.7MB
+Extension_by:   bmarkus, Jason W (scm version)
+Tags:	    	text editor Xfce
+Comments:       ----
+Change-log:     2010/05/25 First version, 0.2.16
+Current:        2012/10/17 Scm version (Jason W)
+
+
+

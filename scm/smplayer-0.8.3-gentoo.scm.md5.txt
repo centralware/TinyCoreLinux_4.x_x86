@@ -1,0 +1,1 @@
+90935fcdf7f861a15ed01b7a3e3a8b90  smplayer-0.8.3-gentoo.scm

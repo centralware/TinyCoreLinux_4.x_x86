@@ -1,0 +1,14 @@
+Title:				libreoffice3.6-uk-langpack.scm
+Description:		Libreoffice Ukrainian language support package.
+Version:			3.6.0
+Author:			The Document Foundation
+Original-site:		http://www.libreoffice.org/
+Copying-policy:		LGPL-3
+Size:				3M
+Extension_by:		Jason W
+Tags:	 			LibreOffice Open office Productivity Suite Ukrainian locale language
+Comments:		Install this along with libreoffice3.6.scm for 
+				Ukrainian language with Libreoffice.
+Change-log:		----
+Current:			2012/08/26 First version 3.6.0
+

@@ -1,0 +1,24 @@
+Title:          wget.scm
+Description:    GNU wget
+Version:        1.13.4
+Author:         Hrvoje Niksic 
+Original-site:  www.gnu.org/software/wget/
+Copying-policy: GPL
+Size:		1.7MB
+Extension_by:   Jason W
+Tags:	    GNU wget
+Comments:       This is the GNU version of wget, openssl
+		enabled and no dependencies.
+		This extension contains:
+		
+		openssl - 1.0.0e
+		http://www.openssl.org/
+
+		wget - 1.13.4
+		http://www.gnu.org/software/wget/
+		
+                ----------
+Change-log:     ----
+Current:	2012/01/01 First version 1.13.4 as scm.
+
+			  

@@ -1,0 +1,14 @@
+Title:          gentoo.scm
+Description:    Gentoo File Manager
+Version:        0.19.12
+Author:         Emil Brink
+Original-site:  http://emelfm2.net/
+Copying-policy: GPL2
+Size: 		417K
+Extension_by:   Jason W
+Tags:		gentoo file manager gtk2 
+Comments:       ----
+		for config persistence.
+Change-log:     ----
+Current:	2012/05/25 First version 0.19.12
+

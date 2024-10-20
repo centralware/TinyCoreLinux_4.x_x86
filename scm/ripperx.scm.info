@@ -1,0 +1,15 @@
+Title:          ripperx.scm
+Description:    Gtk2 cd ripping program.
+Version:        2.7.3
+Author:         Dave Cinege, Jos Dehaes, Mark Thomas, Tony Mancill, Paul Mangan
+Original-site:  http://sourceforge.net/projects/ripperx/
+Copying-policy: GPL
+Size: 		14.7M
+Extension_by:   Jason W
+Tags:	    	Gtk2 gtk2 cd ripping program.
+Comments:       Contains files from needed tcz dependencies.
+Change-log:     ----
+		2010/12/13 First version 2.7.3
+Current:	2012/03/05 Scm version
+
+

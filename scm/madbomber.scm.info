@@ -1,0 +1,13 @@
+Title:          madbomber.scm
+Description:    Clone of the Atari game Kaboom.
+Version:        0.2.5
+Author:         Bill Kendrick
+Original-site:  http://www.newbreedsoftware.com/madbomber/
+Copying-policy: GPL
+Size: 		3.1MB
+Extension_by:   Jason W
+Tags:	    	Clone Atari game Kaboom.
+Comments:       -------
+Change-log:     2009/01/24 First version 0.2.5
+Current:        2012/10/15 Scm conversion.
+

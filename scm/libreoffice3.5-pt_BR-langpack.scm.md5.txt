@@ -1,0 +1,1 @@
+d25aa111e4089a5279cea7f1bafaee20  libreoffice3.5-pt_BR-langpack.scm

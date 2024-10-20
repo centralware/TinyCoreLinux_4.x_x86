@@ -1,0 +1,1 @@
+950215b03e9fa23329a8d2dde8e377bd  opera-11.scm

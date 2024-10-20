@@ -1,0 +1,18 @@
+Title:          icecat.scm
+Description:    Icecat web browser
+Version:        17.0.1
+Author:         The Mozilla Community/GNU
+Original-site:  www.gnu.org/software/gnuzilla/ 
+Copying-policy: MPL/GNU GPL/GNU LGPL tri-license
+Size:		28M
+Extension_by:   Jason W
+Tags:	    Icecat web browser
+Comments:       ----
+Change-log:     2012/01/08 Ported to scm format.
+		2012/03/26 Update to 10.0
+		2012/07/08 Update to 12.0
+		2012/07/27 Update to 13.0.1
+		2012/09/17 Update to 14.0.1
+Current:	2013/01/06 Update to 17.0.1
+
+

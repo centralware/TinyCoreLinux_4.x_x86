@@ -1,0 +1,11 @@
+Title:          upx.scm
+Description:    Ultimate Packer for eXecutables 
+Version:        3.08
+Author:         Markus F.X.J. Oberhumer, Laszlo Molnar, John F. Reiser
+Original-site:  http://upx.sourceforge.net/
+Copying-policy: GPL
+Size: 		380K
+Extension_by:   Jason W
+Tags:	    	upx Ultimate Packer eXecutables 
+Comments:       ---------
+Current:	2012/10/17 First version 3.08

@@ -1,0 +1,1 @@
+87af29148c9f684292d22e41b0d7d89a  libreoffice3.6-fr-langpack.scm

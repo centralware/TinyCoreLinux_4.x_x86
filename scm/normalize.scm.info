@@ -1,0 +1,18 @@
+Title: 			normalize.scm
+Description: 		audio file volume normalizer
+Version: 			0.7.7
+Author: 			Chris Vaill and others
+Original-site: 		http://normalize.nongnu.org/
+Copying-policy: 	GPLv2
+Size: 			10MB
+Extension_by: 		Jason W
+Tags:	 		audio file volume normalizer
+Comments: 		A tool for adjusting the volume of WAV files to a standard level
+
+				Install perl5.scm for normalize-mp3 usage.
+
+		   		----
+Change-log: 		2013/02/09 First version 0.7.7
+Current: 			2013/02/12 Added normalize-audio compatibility symink.
+
+

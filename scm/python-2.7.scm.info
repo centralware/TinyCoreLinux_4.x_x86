@@ -1,0 +1,34 @@
+Title:          python-2.7.scm
+Description:	Python programming language.
+Version:        2.7.2
+Author:         Python Software Foundation.
+Original-site:  http://www.python.org/
+Copying-policy: Python license: http://www.python.org/psf/license
+Size:		21M
+Extension_by:   Jason W
+Tags:		Python programming language
+Comments:       Contains:
+		expat - 2.0.1
+		http://expat.sourceforge.net/
+		
+		fontconfig - 2.8
+		http://www.freedesktop.org/wiki/Software/fontconfig
+
+		tcl/tk - 8.5
+		http://www.tcl.tk/
+
+		openssl- static 1.0.0e
+		http://www.openssl.org/
+
+		bzip2 - static 1.0.6
+		http://bzip.org/
+
+		sqlite - static 3070900
+		http://www.sqlite.org/
+
+		python - 2.7.2
+		http://www.python.org/
+                ----------
+Change-log:     
+Current:	2012/01/08 First version 2.7.2
+

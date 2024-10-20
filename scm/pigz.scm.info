@@ -1,0 +1,12 @@
+Title:          	pigz.scm
+Description:    	Parallel gzip
+Version:        	2.2.5
+Author:         	Mark Adler
+Original-site:  	http://zlib.net/pigz
+Copying-policy: zlib
+Size:			28K
+Extension_by:   Jason W
+Tags:	   	Parallel gzip compression cli utility
+Comments:       ----
+Change-log:     	----
+Current:        	2013/02/11 First version 2.2.5

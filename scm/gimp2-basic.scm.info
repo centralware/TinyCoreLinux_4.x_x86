@@ -1,0 +1,25 @@
+Title:          gimp2-basic.scm
+Description:    gnu image manipulation program
+Version:        2.6.11
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 		21MB
+Extension_by:   juanito (Jason W scm version)
+Tags:	    	gnu image manipulation program
+Comments:       GNU Image Manipulation Program
+                ----------
+                This extension contains:
+                gimp-2.6.11 	- GPLv2 - ftp://ftp.gimp.org/pub/gimp/v2.6/gimp-2.6.11.tar.bz2
+		libexif-0.6.20 	- LGPL - http://downloads.sourceforge.net/project/libexif/libexif/0.6.20/libexif-0.6.20.tar.bz2
+		gegl-0.1.8	- GPL3 - ftp://ftp.gtk.org/pub/gegl/0.1/gegl-0.1.8.tar.bz2
+		babl-0.1.6 	- LGPL3 - ftp://ftp.gtk.org/pub/babl/0.1/babl-0.1.6.tar.bz2		-
+                ----------
+Change-log:     2008/12/30
+                updated 2.6.3 -> 2.6.7 and recompiled against latest babl/gegl
+                2009/09/28
+                updated 2.6.7 -> 2.6.8
+                2010/06/05
+                updated 2.6.8 -> 2.6.11 and split out devs
+       		2011/02/26
+Current:	2012/01/01 Ported to scm format (Jason W)

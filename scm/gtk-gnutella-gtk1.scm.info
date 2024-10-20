@@ -1,0 +1,13 @@
+Title:          gtk-gnutella-gtk1.scm
+Description:    Gtk1 graphical gnutella client.
+Version:        0.98.2
+Author:         Jeroen Asselman (maintainer) with others.
+Original-site:  http://gtk-gnutella.sourceforge.net/
+Copying-policy: GPL, OPEN DATA LICENSE
+Size:		20M
+Extension_by:   Jason W
+Tags:	    	Gtk1 graphical gnutella client
+Comments:       ----
+Change-log:     ----
+Current:	2012/05/26 First version 0.98.2 
+

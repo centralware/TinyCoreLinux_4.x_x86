@@ -1,0 +1,13 @@
+Title:		gnome-mplayer.scm
+Description:	A GTK2 interface to MPlayer.
+Version:	1.0.5
+Author:		Kevin DeKorte
+Original-site:	http://code.google.com/p/gnome-mplayer/
+Copying-policy:	GPLv2
+Size:		14mb
+Extension_by:	AmatCoder
+Tags:	 	GTK2 interface MPlayer.
+Comments:	Converted from tcz version, includes deps.
+Change-log:	---
+		2012/02/26 First Version 1.0.5
+Current:	2012/03/03 Scm version - Jason W

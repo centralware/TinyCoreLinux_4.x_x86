@@ -1,0 +1,1 @@
+5778dfaf0a594e5ee28c1daeed7be21c  libreoffice3.5-uk-langpack.scm

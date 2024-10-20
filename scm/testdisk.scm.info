@@ -1,0 +1,13 @@
+Title:		testdisk.scm
+Description:	Testdisk Data Recovery tool
+Version:	6.13
+Author:         Christophe GRENIER <grenier@cgsecurity.org>
+Original-site:   http://www.cgsecurity.org
+Copying-Policy:	GNU GPL 
+Size:		2.8M
+Extension_by:	Jason W
+Tags:		Testdisk data recovery fidentify photorec
+Comments:	----		
+Change-log:     ----
+Current:	2012/09/28 First version 6.13
+

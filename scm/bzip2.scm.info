@@ -1,0 +1,12 @@
+Title:		bzip2.scm
+Description:	bzip2
+Version:	1.0.6 
+Author:		Julian Seward
+Original-site:	http://www.bzip.org/
+Copying-policy:	custom
+Size:		102K
+Extension_by:	Jason W
+Tags:		bzip2
+Comments:	---
+Change-log:	----
+Current:	2012/10/16 version 1.0.6

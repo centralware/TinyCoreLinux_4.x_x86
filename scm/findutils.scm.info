@@ -1,0 +1,15 @@
+Title:          	findutils.scm
+Description:   	GNU utilities to locate files
+Version:       	4.4.2
+Author:         	see list of sites below
+Original-site:  	see list of sites below
+Copying-policy: see list of sites below
+Size: 		724KB
+Extension_by:   Jason W
+Tags:	    		GNU utilities to locate files
+Comments:       Use "sudo updatedb" to create a locate database.
+			Back up your /opt/scm/findutils/var directory
+			to make it persist.
+Change-log:      ----
+Current:        	2012/10/04 First version 4.4.2
+

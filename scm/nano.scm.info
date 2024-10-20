@@ -1,0 +1,18 @@
+Title:          nano.scm
+Description:    Nano editor
+Version:        2.2.6
+Author:         Various
+Original-site:  http://www.nano-editor.org/
+Copying-policy: GPL
+Size:		1.4MB
+Extension_by:   Jason W
+Tags:	    	Nano cli editor
+Comments:       Contains:
+		slang-2.2.4
+		bzip2-1.0.6
+		file-5.11
+		pcre-8.30
+		nano-2.2.6
+Change-log:     ----
+Current:	2013/02/10 First version 2.2.6
+

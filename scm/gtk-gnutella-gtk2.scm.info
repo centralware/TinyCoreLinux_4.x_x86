@@ -1,0 +1,16 @@
+Title:          gtk-gnutella-gtk2.scm
+Description:    Gtk2 graphical gnutella client.
+Version:        0.98.2
+Author:         Jeroen Asselman (maintainer) with others.
+Original-site:  http://gtk-gnutella.sourceforge.net/
+Copying-policy: GPL, OPEN DATA LICENSE
+Size:		16M
+Extension_by:   Jason W
+Tags:	    Gtk2 graphical gnutella client
+Comments:       Contains - 
+		desktop-file-utils - 0.19
+		http://www.freedesktop.org/wiki/Software/desktop-file-utils
+		----
+Change-log:     ----
+Current:	2012/01/07 First version 0.98.2
+

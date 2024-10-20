@@ -1,0 +1,1 @@
+7c9da70584ad10ee90af687015ae48f5  osmo.scm

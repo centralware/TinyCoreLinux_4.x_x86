@@ -1,0 +1,14 @@
+Title:          tar.scm
+Description:    The GNU Tape ARchiver program
+Version:        1.26
+Author:         John Gilmore and Jay Fenlason
+Original-site:  http://www.gnu.org/software/tar/
+Copying-policy: GPL
+Size: 		840kb
+Extension_by:   Jason W
+Tags:	    GNU Tape ARchiver program
+Comments:       ----
+Change-log:     ----
+Current:	2012/02/01  First version 1.26
+
+

@@ -1,0 +1,3 @@
+/apps/strace/bin/strace
+/apps/strace/bin/strace-graph
+/apps/strace/bin/strace-log-merge

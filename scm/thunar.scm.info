@@ -1,0 +1,21 @@
+Title:          	thunar.tcz
+Description:    	File manager for Xfce4.10
+Version:        	1.4.0
+Author:         	Benedikt Meuer, Jeffs Franks
+Original-site:  	http://www.xfce.org/projects/thunar/
+Copying-policy: GPL v2
+Size:			9.5MB
+Extension_by:   bmarkus
+Tags:           	FILEUTILITY file manager thunar gtk2 xfce
+Comments:       Binaries only
+                	----
+               	 	Compiled for TC 4.x
+			You need an icon theme installed, like
+			gnome-icon-theme or tangerine-icon-theme.
+Change-log:     2012/04/29 First version, 1.4.0
+Current:          2012/10/21 Scm version (Jason W)
+
+
+
+
+

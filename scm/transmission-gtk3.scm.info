@@ -1,0 +1,42 @@
+Title:		transmission.scm
+Description:	Bittorrent client
+Version:	2.42
+Author:		Charles Kerr, Mitchell Livingston
+Original-site:	www.transmissionbt.com
+Copying-policy:	GPL/MIT
+Size:		4.1M
+Extension_by:	Jason W (initial build)
+Tags:		Bittorrent client
+Comments:	This app depends on a running instance of dbus.
+		Including dbus is in the works for this package,
+		But for now install dbus.tcz and start it:
+		"/usr/local/etc.init.d/dbus start"
+		
+		This extension contains transmission-cli,
+		transmission-daemon, and transmission-remote.
+		There is a bug in this program that causes a 
+		crash when trying to open a torrent without
+		first opening and closing the Edit->Preferences
+		window, open and close it first as a workaround:
+		https://forum.transmissionbt.com/viewtopic.php?f=9&p=58059
+
+		This package contains:	
+		curl - 7.23.1     		
+		http://curl.haxx.se/
+		
+		desktop-file-utils - 0.19	
+		http://www.freedesktop.org/wiki/Software/desktop-file-utils
+		
+		libevent - 2.0.16
+		http://libevent.org/
+		
+		openssl-1.0.0e
+		http://www.openssl.org/source/
+	
+		transmission - 2.42
+		http://www.transmissionbt.com/
+		-----------------------------
+		
+Change-log:	----
+Current:	2012/01/07 First version 2.42
+

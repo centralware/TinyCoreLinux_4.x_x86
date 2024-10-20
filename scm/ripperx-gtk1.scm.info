@@ -1,0 +1,20 @@
+Title:          ripperx-gtk1.scm
+Description:    Gtk1 cd ripping program.
+Version:        2.7.0
+Author:         Dave Cinege, Jos Dehaes, Mark Thomas, Tony Mancill, Paul Mangan
+Original-site:  http://sourceforge.net/projects/ripperx/
+Copying-policy: GPL
+Size: 		3.4MB
+Extension_by:   Jason W
+Tags:	    	Gtk1 cd ripping program.
+Comments:       ---
+Change-log:     2008/08/22 First version
+		2008/10/14 Added JWM menu.
+        	2008/12/11 Rebuilt for i486, size, cramfs.
+		2010/12/09 Rebuilt to correct crashing,
+		renamed to all lowercase for simplicity.
+		2010/12/10 Update to 2.7.0 and fix cddb entries.
+		2010/12/13 Now self contained in /usr/local/ripperx-gtk1
+			   as to not conflict with a future gtk2 version.
+Current:	2012/05/22 Scm port.
+

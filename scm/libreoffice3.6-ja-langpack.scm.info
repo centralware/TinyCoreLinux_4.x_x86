@@ -1,0 +1,14 @@
+Title:				libreoffice3.6-ja-langpack.scm
+Description:		Libreoffice Japanese language support package.
+Version:			3.6.0
+Author:			The Document Foundation
+Original-site:		http://www.libreoffice.org/
+Copying-policy:		LGPL-3
+Size:				3.4M
+Extension_by:		Jason W
+Tags:	 			LibreOffice Open office Productivity Suite Japanese locale language
+Comments:		Install this along with libreoffice3.5.scm for 
+				Japanese language with Libreoffice.
+Change-log:		----
+Current:			2012/08/29 First version 3.6.0
+

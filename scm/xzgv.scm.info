@@ -1,0 +1,12 @@
+Title:          xzgv.scm
+Description:    Picture viewer for X, with thumbnail-based file selector.
+Version:        0.9.1
+Author:         Reuben Thomas (current), Russell Marks.
+Original-site:  http://sourceforge.net/projects/xzgv/
+Copying-policy: GPL2
+Size:		53K
+Extension_by:   Jason W
+Tags:	    	xzgv image viewer
+Comments:       ----
+Change-log:     ----
+Current:	2012/05/24 First version 0.9.1

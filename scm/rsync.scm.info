@@ -1,0 +1,13 @@
+Title:          	rsync.scm
+Description:    	File transfer and syncronization program. 
+Version:        	3.0.9
+Author:         	Andrew Tridgell + Various
+Original-site:  	http://rsync.samba.org
+Copying-policy: GPLv3	
+Size:			950K
+Extension_by:   Jason W
+Tags:	    		Rsync File transfer syncronization program. 
+Comments:       rsync is a replacement for scp/rcp that has many more features.
+Change-log:     ----
+Current:        	2012/09/20 First scm version 3.0.9
+

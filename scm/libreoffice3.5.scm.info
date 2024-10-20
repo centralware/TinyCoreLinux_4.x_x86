@@ -1,0 +1,18 @@
+Title:				libreoffice3.5.scm
+Description:		The LibreOffice Productivity Suite.
+Version:			3.5.4
+Author:			The Document Foundation
+Original-site:		http://www.libreoffice.org/
+Copying-policy:	LGPL-3
+Size:			247M
+Extension_by:		Jason W
+Tags:	 		LibreOffice Open office Productivity Suite
+Comments:		Contains openjdk-7-jre.tcz and Xorg-7.6-lib.tcz.
+				Extracted from .deb binaries from http://www.libreoffice.org/
+Change-log:		----
+				2012/02/21 First version.
+				2012/05/28 Included self contained gtk2 install, no
+			   			   dependencies.  Update to 3.5.3.
+Current:			2012/06/03 Update to 3.5.4, added language and help
+						   pack add on capability.
+

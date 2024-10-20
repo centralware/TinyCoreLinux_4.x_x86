@@ -1,0 +1,1 @@
+4b927f769c4165a44ba9cd0511c1e421  ripperx-gtk1.scm

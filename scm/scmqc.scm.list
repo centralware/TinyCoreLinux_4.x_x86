@@ -1,0 +1,9 @@
+/apps/scmqc/bin/scmqc
+/apps/scmqc/include/magic.h
+/apps/scmqc/lib/libmagic.la
+/apps/scmqc/lib/libmagic.so
+/apps/scmqc/lib/libmagic.so.1
+/apps/scmqc/lib/libmagic.so.1.0.0
+/apps/scmqc/localbin/file
+/apps/scmqc/localbin/zsyncmake
+/apps/scmqc/share/misc/magic.mgc

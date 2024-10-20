@@ -1,0 +1,1 @@
+d48705491b796ae746db1edd76d0d9b9  ffmpeg-static.scm

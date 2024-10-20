@@ -1,0 +1,20 @@
+Title:          gmplayer.scm
+Description:    mplayer movie player with gtk2 interface
+Version:        1.1
+Author:         Mplayer team
+Original-site:  http://mplayerhq.hu
+Copying-policy: GPL
+Size:		12M
+Extension_by:   Jason W
+Tags:	    	Mplayer movie player gmplayer gtk2
+Comments:       This package is dependent on gtk2.scm.  Use
+		mplayer.scm instead of you don't want to install
+		gtk2.scm.
+		Video output defaults to XV, you may need
+		to change it to X11 if your video card
+		does not support XV.
+		Contains libraries from:
+		libiconv.tcz
+Change-log:     ----
+Current: 	2012/09/24 First version 1.1
+

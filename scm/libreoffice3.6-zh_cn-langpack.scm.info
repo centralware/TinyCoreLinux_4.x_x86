@@ -1,0 +1,15 @@
+Title:				libreoffice3.6-zh_cn-langpack.scm
+Description:		Libreoffice Chinese Simplified language support package.
+Version:			3.6.0
+Author:			The Document Foundation
+Original-site:		http://www.libreoffice.org/
+Copying-policy:		LGPL-3
+Size:				2M
+Extension_by:		Jason W
+Tags:	 			LibreOffice Open office Productivity Suite Chinese
+				Simplified locale language
+Comments:		Install this along with libreoffice3.6.scm for 
+				Chinese Simplified language with Libreoffice.
+Change-log:		----
+Current:			2012/08/26 First version 3.6.0
+

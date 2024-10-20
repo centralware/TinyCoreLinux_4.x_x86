@@ -1,0 +1,13 @@
+Title:		ffmpeg-static.scm
+Description:	Complete and free audio and video broadcasting solution for Linux/Unix
+Version:	0.9
+Author:		Fabrice Bellard
+Original-site:	http://ffmpeg.org/
+Copying-policy:	GPL
+Size:		17M
+Extension_by:	Jason W
+Tags:	 	Complete and free audio and video broadcasting solution for Linux/Unix
+Comments: 	Use in conjunction with ffmpeg-static-dev.scm to build
+		against.
+Change-log:	----
+Current:	2012/03/25 First Version 0.9

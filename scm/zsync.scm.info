@@ -1,0 +1,12 @@
+Title:          zsync.tcz
+Description:    zsync incremental file transfer program
+Version:        0.6.2
+Author:         Colin Phipps
+Original-site:  http://zsync.moria.org.uk/
+Copying-policy: /apps/zsync/share/doc/zsync/COPYING
+Size:		106KB
+Extension_by:   Jason W
+Tags:	    	zsync incremental file transfer program
+Comments:       ----
+Change-log:     ----
+Current:        2012/08/12 First build 0.6.2

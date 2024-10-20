@@ -1,0 +1,18 @@
+Title:          minefield8.scm
+Description:    Unbranded Firefox web browser (gtk2, mozilla)
+Version:        8.0.1
+Author:         Mozilla
+Original-site:  http://mozilla.com/firefox
+Copying-policy: MPL
+Size:		19M
+Extension_by:   Jason W
+Tags:	    Unbranded Firefox web browser gtk2 mozilla
+Comments:       Requires the gtk2.scm extension.
+		Contains libasound libs from the current alsa 
+		version 1.0.23.
+Change-log:     2011/10/15 First version 8.0 beta 3
+		2011/11/01 Update to beta 5
+		2011/11/05 Update to beta 6
+		2011/11/12 Update to 8.0 official
+		2011/11/30 Update to 8.0.1
+Current:	2011/12/31 Ported to scm format.

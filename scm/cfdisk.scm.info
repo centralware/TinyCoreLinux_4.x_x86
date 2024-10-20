@@ -1,0 +1,14 @@
+Title:          cfdisk.scm
+Description:    Cfdisk partitioning utility
+Version:        2.19.1
+Author:         Karel Zak and others.
+Original-site:  www.kernel.org/pub/linux/utils/util-linux-ng/ 
+Copying-policy: GPL
+Size:		28K
+Extension_by:   Jason W
+Tags:	    	Cfdisk partitioning utility
+Comments:       ----
+Change-log:     ----
+Current:	2013/02/10 First version 2.19.1
+
+

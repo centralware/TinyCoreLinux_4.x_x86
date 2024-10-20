@@ -1,0 +1,1 @@
+ac839821f1d2e168316ba81de36b1b5a  gtkspell-locale.tcz

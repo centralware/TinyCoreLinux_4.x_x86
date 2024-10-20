@@ -1,0 +1,1 @@
+f98ba15157a137d86349ff386d9c7d49  gtk2-locale.tcz

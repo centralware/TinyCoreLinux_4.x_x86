@@ -1,0 +1,1 @@
+014a3b2ac76512de2c568d2a5c9c97f6  gnutls-locale.tcz

@@ -1,0 +1,1 @@
+b04a6d895d8e38554923b6a6494ca568  gnome-settings-daemon-locale.tcz

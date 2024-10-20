@@ -1,0 +1,1 @@
+fadd7228cb142bcd4c80b0ecf5433a5d  gst-plugins-base1.0-locale.tcz

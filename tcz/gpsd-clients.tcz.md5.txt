@@ -1,0 +1,1 @@
+2541043c0a1f997b7d1ed650798cc43a  gpsd-clients.tcz

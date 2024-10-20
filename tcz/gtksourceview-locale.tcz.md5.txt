@@ -1,0 +1,1 @@
+92d276ef2ffc8335d6e2dca29cde4465  gtksourceview-locale.tcz

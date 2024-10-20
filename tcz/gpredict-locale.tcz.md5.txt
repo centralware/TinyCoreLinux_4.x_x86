@@ -1,0 +1,1 @@
+23e65a46c66c8ba94a19d55e29e707e3  gpredict-locale.tcz

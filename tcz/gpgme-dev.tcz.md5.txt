@@ -1,0 +1,1 @@
+666af4aaeecf4612e2741efe021c40e3  gpgme-dev.tcz

@@ -1,0 +1,1 @@
+2ffd26627e08391138b4264c2fba880b  gst-plugins-ugly1.0-locale.tcz

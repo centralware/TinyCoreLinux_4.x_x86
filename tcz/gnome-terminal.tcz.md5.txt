@@ -1,0 +1,1 @@
+ad375da2eb30fb1638fa8e936e3bf338  gnome-terminal.tcz

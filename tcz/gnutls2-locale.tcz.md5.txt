@@ -1,0 +1,1 @@
+faac9bd5a75a8702c1a788ce7cf66ee5  gnutls2-locale.tcz

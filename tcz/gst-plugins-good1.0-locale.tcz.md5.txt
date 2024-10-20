@@ -1,0 +1,1 @@
+c4a2d3cb97118a26ff4d372203c32e79  gst-plugins-good1.0-locale.tcz

@@ -1,0 +1,1 @@
+e9d4c1a781e50d25b65bfa23239d4bda  gnumeric-locale.tcz

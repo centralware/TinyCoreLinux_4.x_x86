@@ -1,0 +1,1 @@
+605c1f68701df1100192dfd538a42ffe  minicom-locale.tcz

@@ -1,0 +1,1 @@
+12c2face9d7e9bf599a5858fc358b6b1  mtd-3.0.32-x1-rt52.tcz

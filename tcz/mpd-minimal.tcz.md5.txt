@@ -1,0 +1,1 @@
+fd4ef64e6df46d51d7872a0844b5e740  mpd-minimal.tcz

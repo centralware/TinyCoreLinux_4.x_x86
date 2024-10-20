@@ -1,0 +1,1 @@
+e595442dfd9e7390bc68f0771bd8c2c7  monodevelop-locale.tcz

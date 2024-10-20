@@ -1,0 +1,1 @@
+8b5251aa1e3679ed9dbfe5881daedcc8  libqalculate-doc.tcz

@@ -1,0 +1,1 @@
+33aa950ad51f26dc845c960453b853ff  libsigc++-1.2.tcz

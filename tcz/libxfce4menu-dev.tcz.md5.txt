@@ -1,0 +1,1 @@
+686164d7fdce6f81a154bb5643be8cc5  libxfce4menu-dev.tcz

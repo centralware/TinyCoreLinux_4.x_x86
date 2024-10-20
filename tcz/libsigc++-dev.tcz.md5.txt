@@ -1,0 +1,1 @@
+79891ee4f3029224b7cbf6e84dbd31f1  libsigc++-dev.tcz

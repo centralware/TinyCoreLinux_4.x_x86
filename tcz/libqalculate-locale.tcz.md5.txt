@@ -1,0 +1,1 @@
+c5cece610e4da0fd600dc261bc2647e8  libqalculate-locale.tcz

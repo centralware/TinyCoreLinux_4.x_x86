@@ -1,0 +1,1 @@
+4018f6538e411938de665ee813baf258  libraw1394-dev.tcz

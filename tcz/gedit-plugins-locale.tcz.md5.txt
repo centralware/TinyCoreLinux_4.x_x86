@@ -1,0 +1,1 @@
+68cf875722513b918d048a055505956d  gedit-plugins-locale.tcz

@@ -1,0 +1,1 @@
+10d0c0172885cd4cd0b3c74cbc9dcdd2  gedit-locale.tcz

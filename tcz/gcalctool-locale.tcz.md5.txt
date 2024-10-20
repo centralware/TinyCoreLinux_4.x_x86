@@ -1,0 +1,1 @@
+cb61f64574169103eeff8fb89cb36540  gcalctool-locale.tcz

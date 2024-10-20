@@ -1,0 +1,1 @@
+a4ca45baaa7d637fc04db29a509f15ac  gnome-power-manager-locale.tcz

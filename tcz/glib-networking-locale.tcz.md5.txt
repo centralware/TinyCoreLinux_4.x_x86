@@ -1,0 +1,1 @@
+f311c4948aa9935b2d8135a0fab08935  glib-networking-locale.tcz

@@ -1,0 +1,1 @@
+1a8ca2e517bc6af8393e79e2fb03f3e7  gnome-applets-locale.tcz

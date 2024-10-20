@@ -1,0 +1,1 @@
+e3670164fea7ab22174b9694125a4a2c  gnome-netstatus-locale.tcz

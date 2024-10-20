@@ -1,0 +1,1 @@
+911b42c77437f66e0ebe9d1d6c0add1f  gnome-doc-utils-locale.tcz

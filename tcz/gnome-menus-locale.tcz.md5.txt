@@ -1,0 +1,1 @@
+73ff164e25f090a34dd5fb89837f96ff  gnome-menus-locale.tcz

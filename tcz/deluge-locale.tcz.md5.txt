@@ -1,0 +1,1 @@
+5ef054da7a70a0805bd94e8a30b16b94  deluge-locale.tcz

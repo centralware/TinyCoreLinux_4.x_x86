@@ -1,0 +1,1 @@
+2cbc53da8bbdfe819839f3b840ca8aa2  cfitsio-dev.tcz

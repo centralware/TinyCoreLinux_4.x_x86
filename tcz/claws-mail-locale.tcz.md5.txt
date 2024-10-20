@@ -1,0 +1,1 @@
+10be56f330f29764e4c0213d3cb953eb  claws-mail-locale.tcz

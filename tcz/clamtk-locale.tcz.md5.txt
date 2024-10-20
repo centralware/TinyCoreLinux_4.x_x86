@@ -1,0 +1,1 @@
+5681d6acd18ff8dd4781f70462cd1b26  clamtk-locale.tcz

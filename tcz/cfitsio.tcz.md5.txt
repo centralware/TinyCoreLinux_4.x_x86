@@ -1,0 +1,1 @@
+24f3a1d772e7e1c18e9b6be6a4012128  cfitsio.tcz

@@ -1,0 +1,1 @@
+548146b947700474412c35d957a18bfd  cairo-dock-plugins-locale.tcz

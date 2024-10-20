@@ -1,0 +1,1 @@
+3ab7f67d0c630fb31bd31a469599676a  cairo-dock-core-dev.tcz

@@ -1,0 +1,1 @@
+21c568625a121cf4901c1b765cb1bcb6  kdebase-runtime.tcz

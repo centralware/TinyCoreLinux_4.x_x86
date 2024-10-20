@@ -1,0 +1,1 @@
+60eff8b0fad9a4d1cf8e4166fd2af59f  kvm-3.0.3-tinycore64.tcz

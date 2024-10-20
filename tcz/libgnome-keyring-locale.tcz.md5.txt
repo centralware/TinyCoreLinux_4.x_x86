@@ -1,0 +1,1 @@
+bc03ad48bb95bea7974df08f54d46b37  libgnome-keyring-locale.tcz

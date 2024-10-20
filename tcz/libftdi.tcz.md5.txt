@@ -1,0 +1,1 @@
+a2602ac46351037dc64617aa0788159b  libftdi.tcz

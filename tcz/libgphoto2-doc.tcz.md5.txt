@@ -1,0 +1,1 @@
+047301c6f572f2d78c69a2b4c4682ea1  libgphoto2-doc.tcz

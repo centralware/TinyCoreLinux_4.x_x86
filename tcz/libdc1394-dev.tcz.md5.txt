@@ -1,0 +1,1 @@
+5371140e8b3dd9be60a4af5f29869fb2  libdc1394-dev.tcz

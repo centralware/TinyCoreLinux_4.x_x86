@@ -1,0 +1,1 @@
+1539548c493e4ad5e4d230644cbce8ee  libgnomekbd-locale.tcz

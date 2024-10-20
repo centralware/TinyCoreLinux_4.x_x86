@@ -1,0 +1,1 @@
+581a0b61818e1a71c92d90ac3d061a3a  libgphoto2-locale.tcz

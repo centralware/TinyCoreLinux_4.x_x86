@@ -1,0 +1,1 @@
+7308963b2bf706faba0ec6eb6681ded9  freetype_base-dev.tcz

@@ -1,0 +1,1 @@
+35da12098764a5cc80e411813a339a19  firewire-3.0.32-x1-rt52.tcz

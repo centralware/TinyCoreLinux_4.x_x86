@@ -1,0 +1,1 @@
+c9fe3b1ca00fdede28890d4b0fce35ac  ftdi_eeprom.tcz

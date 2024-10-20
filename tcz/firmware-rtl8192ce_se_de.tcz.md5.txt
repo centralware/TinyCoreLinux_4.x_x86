@@ -1,0 +1,1 @@
+300ca7781e2335f1b2bb7ae06f5a11da  firmware-rtl8192ce_se_de.tcz

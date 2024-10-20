@@ -1,0 +1,1 @@
+c2f9b98af198eb00fbf1f3c9ffebaced  fcitx-4.1.2-base.tcz

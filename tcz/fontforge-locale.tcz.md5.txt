@@ -1,0 +1,1 @@
+1f0b75e762ff667e9d6cd2e964921323  fontforge-locale.tcz

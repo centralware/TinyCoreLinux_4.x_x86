@@ -1,0 +1,1 @@
+9fdc005ff56363c379f2aa0ed5b69a51  fcitx-4.1.2-doc.tcz

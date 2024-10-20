@@ -1,0 +1,1 @@
+fd87666433a997c0883578821c4f0858  firewire-3.0.21-tinycore64.tcz

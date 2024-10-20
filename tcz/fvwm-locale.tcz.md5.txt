@@ -1,0 +1,1 @@
+0e29585b2724bfa47d16c11f9c92cf23  fvwm-locale.tcz

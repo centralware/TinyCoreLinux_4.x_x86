@@ -1,0 +1,1 @@
+376efa8ee94d07983877fc97688db56b  fcitx-4.0-dev.tcz

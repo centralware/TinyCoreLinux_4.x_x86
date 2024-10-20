@@ -1,0 +1,1 @@
+a68a66448538f29be944fba8d50070cc  lirc-modules-3.0.21-tinycore.tcz

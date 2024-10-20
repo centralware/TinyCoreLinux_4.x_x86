@@ -1,0 +1,1 @@
+d5688dcbbc4b38f4f4353dc7e95d7176  linphone-locale.tcz

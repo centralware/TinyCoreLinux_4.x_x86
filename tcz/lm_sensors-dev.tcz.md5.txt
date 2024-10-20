@@ -1,0 +1,1 @@
+a0985af28265fb08f4296cbc3fd4cb2b  lm_sensors-dev.tcz

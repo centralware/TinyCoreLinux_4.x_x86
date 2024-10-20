@@ -1,0 +1,1 @@
+871b06518ae26249e26192f01c11f6bf  luarocks.tcz

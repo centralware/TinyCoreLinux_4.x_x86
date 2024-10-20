@@ -1,0 +1,1 @@
+58ea568edfd8f54f715f90735daa3a5f  locale-col-zh.tcz

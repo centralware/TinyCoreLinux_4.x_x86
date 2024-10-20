@@ -1,0 +1,1 @@
+e5080f12f5b54fc5b94620cf74a220d5  hwmon-3.0.3-tinycore.tcz

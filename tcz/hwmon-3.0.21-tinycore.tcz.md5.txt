@@ -1,0 +1,1 @@
+036dfd55e2b7c48233e97e1d27ec3dce  hwmon-3.0.21-tinycore.tcz

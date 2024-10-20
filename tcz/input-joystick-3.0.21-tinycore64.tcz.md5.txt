@@ -1,0 +1,1 @@
+6d1342f2b04c7d8f18aaa442abc679de  input-joystick-3.0.21-tinycore64.tcz

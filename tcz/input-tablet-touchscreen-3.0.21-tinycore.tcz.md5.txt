@@ -1,0 +1,1 @@
+ed15bf97dcc4c50ce40922545d0fc62a  input-tablet-touchscreen-3.0.21-tinycore.tcz

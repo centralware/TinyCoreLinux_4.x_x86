@@ -1,0 +1,1 @@
+ec23324dc28ca1727ad085a18fae6bba  hplip_sane-2.7.tcz

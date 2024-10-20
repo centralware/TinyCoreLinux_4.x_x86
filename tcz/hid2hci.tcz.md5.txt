@@ -1,0 +1,1 @@
+6d167ad260f20424d94cc88e46697f4f  hid2hci.tcz

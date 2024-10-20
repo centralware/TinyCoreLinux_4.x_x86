@@ -1,0 +1,1 @@
+ed5bd9fe2b5a059f5964e5c6df9cff36  libchamplain-gir.tcz

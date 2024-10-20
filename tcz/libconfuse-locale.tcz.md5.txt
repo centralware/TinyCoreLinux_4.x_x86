@@ -1,0 +1,1 @@
+a19dea9230a79a87426eb8f3fb08820f  libconfuse-locale.tcz

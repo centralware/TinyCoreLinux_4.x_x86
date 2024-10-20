@@ -1,0 +1,1 @@
+87e0209b10b1919d5f91344f2226417c  libbonoboui-locale.tcz

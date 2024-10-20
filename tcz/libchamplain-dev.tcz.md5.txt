@@ -1,0 +1,1 @@
+7b0da2692f02e8d23c9b7ae931c3dac2  libchamplain-dev.tcz

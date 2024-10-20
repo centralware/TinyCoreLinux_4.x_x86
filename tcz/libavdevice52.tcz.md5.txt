@@ -1,0 +1,1 @@
+74e7b1180a9b05d3dbf39ec22b4fb15a  libavdevice52.tcz

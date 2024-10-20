@@ -1,0 +1,1 @@
+77f4d7b013f87edd8f133c052df327a2  libassuan-dev.tcz

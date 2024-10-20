@@ -1,0 +1,1 @@
+840b64f521b3330488f6c5958b2277de  libchamplain-doc.tcz

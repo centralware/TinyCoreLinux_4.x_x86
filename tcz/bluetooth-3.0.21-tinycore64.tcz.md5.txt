@@ -1,0 +1,1 @@
+de577f996906212f930212040be344f1  bluetooth-3.0.21-tinycore64.tcz

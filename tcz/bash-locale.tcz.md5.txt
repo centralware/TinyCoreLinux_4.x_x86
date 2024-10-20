@@ -1,0 +1,1 @@
+eb41088b6dfc834fecee78cd7fe60986  bash-locale.tcz

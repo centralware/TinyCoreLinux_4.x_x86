@@ -1,0 +1,1 @@
+90ebbb6fcd0e80f0e7c0e08290960e35  bluetooth-3.0.3-tinycore64.tcz

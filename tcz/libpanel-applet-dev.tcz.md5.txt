@@ -1,0 +1,1 @@
+4ed509a1948a8daa61a294bbb711b757  libpanel-applet-dev.tcz

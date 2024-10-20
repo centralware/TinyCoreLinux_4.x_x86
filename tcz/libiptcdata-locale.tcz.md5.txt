@@ -1,0 +1,1 @@
+5d3dd6c5f5dfbbbdfd006cb0a33926b6  libiptcdata-locale.tcz

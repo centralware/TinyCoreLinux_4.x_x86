@@ -1,0 +1,1 @@
+8ef9fe2bba9d161f625a0561f0da1db9  libosip2-dev.tcz

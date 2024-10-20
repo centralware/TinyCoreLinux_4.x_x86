@@ -1,0 +1,3 @@
+
+[ -d /tmp/tcloop/iceweasel ] && sudo cp -af /tmp/tcloop/iceweasel/* /
+

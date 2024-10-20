@@ -1,0 +1,6 @@
+ 
+[ -d /tmp/tcloop/xulrunner-10.0 ] && cp -af /tmp/tcloop/xulrunner-10.0/usr/lib/xulrunner-10.0/libmozjs.so /usr/lib/xulrunner-10.0/libmozjs.so
+ 
+ 
+[ -d /tmp/tcloop/xulrunner-10.0 ] && cp -af /tmp/tcloop/xulrunner-10.0/usr/lib/xulrunner-10.0/dictionaries /usr/lib/xulrunner-10.0/dictionaries
+ 

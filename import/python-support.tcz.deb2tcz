@@ -1,0 +1,15 @@
+
+if [ -d /tmp/tcloop/python-support ]; then 
+ 
+ rm -f /usr/lib/python2.7/dist-packages/python-support.pth
+ cp -af /tmp/tcloop/python-support/usr/lib/python2.7/dist-packages/python-support.pth /usr/lib/python2.7/dist-packages/python-support.pth
+
+fi
+
+if [ -d /tmp/tcloop/python-support ]; then 
+ 
+ rm -f /usr/lib/python2.6/dist-packages/python-support.pth
+ cp -af /tmp/tcloop/python-support/usr/lib/python2.6/dist-packages/python-support.pth /usr/lib/python2.6/dist-packages/python-support.pth
+
+fi
+

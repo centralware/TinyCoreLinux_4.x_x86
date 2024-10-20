@@ -1,0 +1,3 @@
+
+pgrep dbus-launch || /usr/bin/dbus-launch
+

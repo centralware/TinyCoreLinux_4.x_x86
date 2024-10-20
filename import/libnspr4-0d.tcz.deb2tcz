@@ -1,0 +1,9 @@
+ 
+[ -d /tmp/tcloop/libnspr4-0d ] && cp -af /tmp/tcloop/libnspr4-0d/usr/lib/i386-linux-gnu/libplds4.so.0d /usr/lib/i386-linux-gnu/libplds4.so.0d
+ 
+ 
+[ -d /tmp/tcloop/libnspr4-0d ] && cp -af /tmp/tcloop/libnspr4-0d/usr/lib/i386-linux-gnu/libplc4.so.0d /usr/lib/i386-linux-gnu/libplc4.so.0d
+ 
+ 
+[ -d /tmp/tcloop/libnspr4-0d ] && cp -af /tmp/tcloop/libnspr4-0d/usr/lib/i386-linux-gnu/libnspr4.so.0d /usr/lib/i386-linux-gnu/libnspr4.so.0d
+ 

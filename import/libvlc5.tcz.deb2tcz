@@ -1,0 +1,3 @@
+
+[ -d /tmp/tcloop/libvlc5 ] && cp -af /tmp/tcloop/libvlc5/* /
+

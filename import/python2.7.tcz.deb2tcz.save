@@ -1,0 +1,11 @@
+
+if [ -d /tmp/tcloop/python2.7 ]; then
+ rm -f /usr/bin/2to3-2.7
+ cp -af /tmp/tcloop/python2.7/usr/bin/2to3-2.7 /usr/bin/2to3-2.7
+ rm -f /usr/bin/pdb2.7
+ cp -af /tmp/tcloop/python2.7/usr/bin/pdb2.7 /usr/bin/pdb2.7
+ rm -r /usr/bin/pydoc2.7
+ cp -af /tmp/tcloop/python2.7/usr/bin/pydoc2.7 /usr/bin/pydoc2.7
+ rm -f /usr/bin/pygettext2.7
+ cp -af /tmp/tcloop/python2.7/usr/bin/pygettext2.7 /usr/bin/pygettext2.7
+fi

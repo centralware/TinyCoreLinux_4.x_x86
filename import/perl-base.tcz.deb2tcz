@@ -1,0 +1,9 @@
+if [ -d /tmp/tcloop/perl-base ]; then
+ rm -f /usr/lib/perl/5.14
+ cp -af /tmp/tcloop/perl-base/usr/lib/perl/5.14 /usr/lib/perl/5.14
+ rm -f /usr/share/perl/5.14
+ cp -af /tmp/tcloop/perl-base/usr/share/perl/5.14 /usr/share/perl/5.14
+fi
+
+touch /usr/local/tce.installed/perlapi-5.14.2
+

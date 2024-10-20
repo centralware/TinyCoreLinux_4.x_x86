@@ -1,0 +1,23 @@
+
+busybox adduser -S sshd
+
+touch /etc/ssh/sshd_config
+[ -d /var/run/sshd ] || mkdir /var/run/sshd
+chown root:root /var/run/sshd
+chmod 755 /var/run/sshd
+if [ ! -f /etc/ssh/ssh_host_rsa_key ]; then
+  echo "Creating SSH RSA host key.."
+  ssh-keygen -t rsa -f /etc/ssh/ssh_host_rsa_key -C '' -N ''
+fi
+
+if [ ! -f /etc/ssh/ssh_host_dsa_key ]; then
+  echo "Creating SSH DSA host key.."
+  ssh-keygen -t dsa -f /etc/ssh/ssh_host_dsa_key -C '' -N ''
+fi
+
+
+if [ ! -f /etc/ssh/ssh_host_ecdsa_key ]; then
+  echo "Creating SSH ECDSA host key.."
+  ssh-keygen -t ecdsa -f /etc/ssh/ssh_host_ecdsa_key -C '' -N ''
+fi
+

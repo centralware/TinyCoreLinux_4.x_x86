@@ -1,0 +1,6 @@
+
+USER=`cat /etc/sysconfig/tcuser`
+busybox addgroup audio
+busybox addgroup "$USER" audio
+[ -d /var/lib/alsa ] || mkdir -p /var/lib/alsa
+

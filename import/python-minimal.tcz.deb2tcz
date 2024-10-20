@@ -1,0 +1,5 @@
+
+if [ -d /tmp/tcloop/python-minimal ]; then
+  rm -f /usr/bin/python
+  cp -af /tmp/tcloop/python-minimal/usr/bin/python /usr/bin/python
+fi

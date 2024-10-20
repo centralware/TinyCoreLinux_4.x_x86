@@ -1,0 +1,13 @@
+
+if [ -d /tmp/tcloop/python ]; then
+ rm -f /usr/bin/2to3
+ cp -af /tmp/tcloop/python/usr/bin/2to3 /usr/bin/2to3
+ rm -f /usr/bin/dh_python2
+ cp -af /tmp/tcloop/python/usr/bin/dh_python2 /usr/bin/dh_python2
+ rm -f /usr/bin/pdb
+ cp -af /tmp/tcloop/python/usr/bin/pdb /usr/bin/pdb
+ rm -f /usr/bin/pydoc
+ cp -af /tmp/tcloop/python/usr/bin/pydoc /usr/bin/pydoc
+ rm -f /usr/bin/pygettext
+ cp -af /tmp/tcloop/python/usr/bin/pygettext /usr/bin/pygettext
+fi

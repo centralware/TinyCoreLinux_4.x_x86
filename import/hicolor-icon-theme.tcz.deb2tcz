@@ -1,0 +1,4 @@
+
+/usr/lib/i386-linux-gnu/libgtk2.0-0/gtk-update-icon-cache --force --quiet /usr/share/icons/hicolor
+
+

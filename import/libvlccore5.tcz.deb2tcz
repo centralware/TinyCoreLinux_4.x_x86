@@ -1,0 +1,3 @@
+
+[ -d /tmp/tcloop/libvlccore5 ] && cp -af /tmp/tcloop/libvlccore5/* /
+

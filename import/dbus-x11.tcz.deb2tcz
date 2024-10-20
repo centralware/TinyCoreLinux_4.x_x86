@@ -1,0 +1,4 @@
+
+/usr/bin/dbus-uuidgen > /etc/machine-id
+mkdir /etc/dbus-1/session.d
+

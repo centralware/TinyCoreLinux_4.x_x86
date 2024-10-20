@@ -1,0 +1,6 @@
+
+
+[ -d /etc/pango ] || mkdir /etc/pango
+pango-querymodules > /etc/pango/pango.modules
+
+

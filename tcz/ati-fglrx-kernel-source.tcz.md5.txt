@@ -1,0 +1,1 @@
+937529c765c9be33d0517fa6c11fd76c  ati-fglrx-kernel-source.tcz

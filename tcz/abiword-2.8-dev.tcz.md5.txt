@@ -1,0 +1,1 @@
+65c2428de6e917b31fcc9e6a55612df2  abiword-2.8-dev.tcz

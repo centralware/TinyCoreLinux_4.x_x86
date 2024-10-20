@@ -1,0 +1,1 @@
+361d75ba7529be3e52f1ba9343c15d77  alsa-modules-3.0.3-tinycore64.tcz

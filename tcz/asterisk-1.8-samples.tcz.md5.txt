@@ -1,0 +1,1 @@
+35dec9659ca37253a7d722ff782a29f5  asterisk-1.8-samples.tcz

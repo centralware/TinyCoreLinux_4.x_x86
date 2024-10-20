@@ -1,0 +1,1 @@
+a110441c48fbf2443ba672f87c288646  alsa-modules-3.0.21-tinycore64.tcz

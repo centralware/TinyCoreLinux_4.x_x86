@@ -1,0 +1,1 @@
+b8ec6eac080e27d2be329afa1838d533  alsa-modules-3.0.32-x1-rt52.tcz
